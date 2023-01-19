@@ -1,10 +1,10 @@
-# 你好，冒险家！ 
+# Welcome adventurer! 
 ___
-![整合包logo](q.png)
+![Modpack's logo](q.png)
 ___
 
-在这里，你会了解关于这个整合包的一些信息，以及一些提示和窍门。
+Here you will find some info about this pack as well as some tips and tricks.
 
-请仔细阅读。
+Please read carefully.
 
-请务必阅读"入门"中的信息。
+Be sure to read the information found in "Getting Started".
