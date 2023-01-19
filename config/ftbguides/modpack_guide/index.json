@@ -1,32 +1,32 @@
 [
  {
   "id": "gettingstarted",
-  "title": "Getting Started!",
+  "title": "入门！",
   "icon": "item:minecraft:grass"
  },
  {
   "id": "gearingup",
-  "title": "Gearing Up!",
+  "title": "装备升级！",
   "icon": "item:minecraft:iron_sword"
  },
  {
   "id": "foodandhealth",
-  "title": "All You Can Eat",
+  "title": "你所吃的一切",
   "icon": "item:harvestcraft:southernstylebreakfastitem"
  },
  {
   "id": "mods",
-  "title": "Additional Mods In The Pack",
+  "title": "该整合包的其他修改",
   "icon": "item:qualitytools:reforging_station"
  },
  {
   "id": "tipsandtricks",
-  "title": "Modpack Tips & Tricks",
+  "title": "提示及窍门",
   "icon": "item:minecraft:redstone_torch"
  },
   {
   "id": "notesandcredits",
-  "title": "Notes & Credits",
+  "title": "笔记及贡献",
   "icon": "item:minecraft:experience_bottle"
  }
 ]
