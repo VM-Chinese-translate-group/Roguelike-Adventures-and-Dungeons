@@ -1,7 +1,7 @@
-# What to eat, and what not to eat
+# 该吃什么，不该吃什么
 
-Well, you can eat just about everything.
+嗯，你几乎什么都可以吃。
 
-This portion of the guide will show you many different sources of food and how to obtain them.
+指南的这一部分将向你展示各种食物的来源。
 
-Some sources of food are immediately better than others, but having multiple sustainable food banks is very convenient.
+有些食物的来源比其他的强很多，但有多种食物后备存储是非常重要的。

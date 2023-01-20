@@ -1,7 +1,7 @@
-# String sources
+# 丝线来源
 ___
 
-Several crops from Pam's Harvestcraft can be used to create String.
+潘马斯农场的几种作物可以用来制作String。
 
 They are:
 
