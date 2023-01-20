@@ -1,4 +1,11 @@
 {
+	title: "独自面对黑暗",
+	icon: "midnight:double_dewshroom",
+	always_invisible: false,
+	group: 0,
+	default_quest_shape: ""
+}
+{
 	title: "Alone in the Dark",
 	icon: "midnight:double_dewshroom",
 	always_invisible: false,
