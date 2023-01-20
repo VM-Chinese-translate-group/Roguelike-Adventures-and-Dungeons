@@ -1,4 +1,4 @@
-# 你现在是一个真正的农民了！
+# 你现在是一名真正的农民了！
 
 ![由我制作的整合包logo](modpacklogo.png)
 
@@ -6,8 +6,8 @@
 
 但是，这些水果和蔬菜中有多少是有用的？好吧，所有的都有用！
 
-Each new food item has multiple different recipes it can belong to. Depending on the recipe you're after, the crops you grow are entirely up to you!
+每种新的食物都有多种不同的配方。你需要种植的作物完全取决于你想使用的配方！
 
-However, there are a handful of ridiculously useful plants that will help you along the way in the early game, and even the late game.
+然而，在游戏前期有一些非常有用的植物可以帮助你，甚至到了游戏后期依旧能帮助你。
 
-We will go over them in this guide.
+我们将在本指南中对此进行介绍。
