@@ -44,7 +44,7 @@ firstPRMergeComment: >
   干的不错，下回继续，别忘了抓紧学学Github。
 # Comment to be posted to on first time issues
 firstIssueWelcomeComment: >
-  欢迎，感谢你为整合包汉化做出的反馈，下次再来，客官您慢走。
+  欢迎，感谢你为整合包汉化做出的反馈，客官你坐好了。
   
 ###### IssueLink Adder #################################################################################################
 # Insert Issue (Jira/Github etc) link in PR description based on the Issue ID in PR title.
