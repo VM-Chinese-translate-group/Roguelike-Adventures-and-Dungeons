@@ -1,5 +1,5 @@
 {
-	title: "Bronze Coin Turn-In",
+	title: "上交铜币",
 	x: -22.0d,
 	y: -5.0d,
 	can_repeat: true,

@@ -1,10 +1,10 @@
 {
-	title: "The Ur-Ghast's Ugly Wife",
+	title: "恶魂的丑媳T",
 	x: 6.0d,
 	y: -11.25d,
-	description: "DON'T Tell him I said that",
+	description: "别告诉他是我说的",
 	text: [
-		"She'd turn you to stone if she was any uglier."
+		"如果她再难看点会把你丑到石化."
 	],
 	dependencies: [
 		"b049fdec"
