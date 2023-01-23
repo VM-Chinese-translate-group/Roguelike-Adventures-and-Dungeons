@@ -1,45 +1,45 @@
-# Little knife, big rewards
+# 小匕首，大收获
 ___
 
-The Soulium Dagger
+灵魂匕首
 
-![Stats on the Soulium Dagger](souliumdagger.png)
+![灵魂匕首属性](souliumdagger.png)
 
-This item is the only way to obtain Mob Chunks.
+你只能通过此物品获得怪物灵魂碎片。
 
-By landing the killing blow on mobs with this weapon, you have a chance to obtain Mob Chunks on the killing blow. The type of Chunk depends on which mob is killed.
+使用该武器杀死生物，会有概率获得怪物灵魂碎片。灵魂碎片的类型取决于被杀死的生物。
 
-Step 1: Craft your Soulium Ingots. Which is a painfully unnecessary process.
+第一步：制作灵魂锭。这是一个痛苦且套娃且不必要的过程。
 
-![The process begins](souliumrecipe1.png)
+![过程之初](souliumrecipe1.png)
 
-Obtain stone (cooked Cobblestone), and Soul Sand.
+获得石头（烧制过的圆石）和灵魂沙。
 
-![More...?](souliumrecipe2.png)
+![然后呢...?](souliumrecipe2.png)
 
-Cook it.
+烧它。
 
-![Are we done yet? No?](souliumrecipe3.png)
+![我们完成了吗？没有？](souliumrecipe3.png)
 
-Acquire Prudentium and combine it with your Soul Dust.
+获得下级精华并与下级灵魂沙合成。
 
-![Finally!](souliumrecipe4.png)
+![最后一步!](souliumrecipe4.png)
 
-Cook it again. And then you have the Soulium Ingots needed to craft your dagger!
+烧制它。然后你就获得了制作灵魂匕首所需的灵魂锭!
 
-But wait, you're missing the hilt!
+但是等等，怎么没有刀柄!
 
-You'll need some Prosperity Shards and a Stick.
+你需要一些活化水晶碎片和一根木棍。
 
-![This is just a stick but I guess](stick.png)
+![但我猜这只是一根棍子](stick.png)
 
-Combine everything together to finally obtain your Soulium Dagger!
+将以上所有东西组合起来，就能获得灵魂匕首!
 
-Now you can go and slice down enemies for a chance at Mob Chunks!
+现在你可以去击杀敌人，以获得怪物灵魂碎片!
 
-Chunk tiers are as follows:
+灵魂碎片层级如下:
 
--Zombies are the only Tier 1 Mob Chunk.
+-僵尸是T只是1级怪物基础灵魂碎片。
 
 -Farm animals come in at Tier 2.
 
