@@ -66,15 +66,15 @@ ___
 
 第二步：把你的种子种到沃土上。确保它们能受到光。
 
-Step 3: Place your Lilypads of Fertility somewhere in the middles of your farm. They will need to be placed on a water source block, so you will need to give up a single crop plot for the Lilypad.
+第三步：它们需要放在一个水源方块上，因此你需要为了莲叶放弃一块耕地。
 
-Step 4: Set up your 2 Sprinkler Systems to ensure they reach all sides of your farm. Increase the number of Sprinklers as you expand your farm to keep crop growth at a high rate.
+第四步：建立2套洒水器系统，以确保它们可以到达你的农场中的所有地方。
 
-Step 5: Step up a collection system. This is up to you. I manually collect all of my crops in my Survival World.
+第五步：增强你的收集系统。这看你怎么想。反正我在我的生存中是手动收集所有农作物。
 
-Step 6: Once you've collected lots of Inferium Essence, start turning it into higher tiers of essence. With that, create higher tiers of Inferium Seeds. Higher tier Inferium Seeds will yield more Inferium per harvest.
+第六步：一旦你收集到了大量的下级精华，就可以开始升级它们了。有了这些，就可以制作更高层级的精华种子了。更高层级的精华种子每次收获的精华会更多。
 
-Note: All tiers of Inferium Seeds will always only yield Inferium Essence. It is simply a higher amount.
+注意：所有层级的精华种子都只能种出下级精华。只是数量变多了而已。
 
 
 
