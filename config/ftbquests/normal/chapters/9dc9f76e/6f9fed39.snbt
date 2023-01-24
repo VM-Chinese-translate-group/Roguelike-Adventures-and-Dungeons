@@ -1,16 +1,16 @@
 {
-	title: "So Much to Experience!",
+	title: "海量的经验!",
 	x: -6.5d,
 	y: -7.0d,
-	description: "So many memories to make!",
+	description: "有太多的回忆!",
 	text: [
-		"All those memories of you dying and forgetting to store your XP.",
+		"这些所有的经验都是你忘记存和死后的.",
 		"",
-		"This item will store 1395 experience. This is enough XP to take you from 0 to level 30.",
+		"这个物品能存储 1395 经验. 这些经验足够你从 0 升级到 30.",
 		"",
-		"Shift-Right-Click to store the XP.",
+		"Shift右键点击存经验.",
 		"",
-		"Right-Click to release XP."
+		"右键点击存经验."
 	],
 	tasks: [{
 		uid: "6837a800",

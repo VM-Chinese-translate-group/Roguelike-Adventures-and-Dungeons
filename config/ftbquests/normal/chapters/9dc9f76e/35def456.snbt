@@ -1,12 +1,12 @@
 {
-	title: "Visit the Overworld",
+	title: "到访主世界",
 	x: -9.0d,
 	y: -3.0d,
-	description: "This place is somehow.... familiar",
+	description: "这地方有点.... 似曾相识",
 	text: [
-		"You did it! You downloaded the RAD pack and you're starting your adventure!",
+		"你做到了! 你下载了 RAD 并且开始你的冒险!",
 		"",
-		"Now go find a dungeon. And crawl in it."
+		"立刻找到一个地牢. 然后匍匐前进."
 	],
 	tasks: [{
 		uid: "4896abf0",

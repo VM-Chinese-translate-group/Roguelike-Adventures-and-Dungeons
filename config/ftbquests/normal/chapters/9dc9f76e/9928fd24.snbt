@@ -1,14 +1,14 @@
 {
-	title: "Crafting Bad",
+	title: "繁琐的合成",
 	x: -4.0d,
 	y: -4.0d,
-	description: "Wouldn't it just be easier to put it down?",
+	description: "这不比放下它更容易?",
 	text: [
-		"This item will allow you to pull up a crafting interface with a hotkey while this item is inside your inventory.",
+		"这个物品能直接在背包界面打开合成台.",
 		"",
-		"You might as well just place your Crafting Table down.... and then pick it up again when you're done...",
+		"当然你可能还是会放下合成台.... 制作好之后挖掉捡起...",
 		"",
-		"Here's some Redstone for this SMART idea..."
+		"这有些红石给这个聪明的点子..."
 	],
 	dependencies: [
 		"16c3f3d7"

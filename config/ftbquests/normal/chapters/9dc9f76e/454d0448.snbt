@@ -1,9 +1,9 @@
 {
-	title: "Buy a Gold Coin",
+	title: "买 1 枚金币",
 	x: -23.0d,
 	y: -2.0d,
 	text: [
-		"Buy a Gold Coin to turn your Shop gold into something you can trade to other players."
+		"买 1 枚金币可以将你的商ftb金钱变成可以与其他玩家交易的东西."
 	],
 	can_repeat: true,
 	tasks: [{
