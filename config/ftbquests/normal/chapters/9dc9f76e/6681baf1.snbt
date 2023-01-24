@@ -1,5 +1,5 @@
 {
-	title: "Starting Equipment Selection!",
+	title: "初始装备选择!",
 	icon: {
 		id: "ftbquests:lootcrate",
 		tag: {
@@ -8,15 +8,15 @@
 	},
 	x: -7.0d,
 	y: -3.0d,
-	description: "Start your adventure TODAY!",
+	description: "从今日起开始你的冒险!",
 	text: [
-		"Click the checkmark to complete this quest.",
+		"点检查标记完成这个任务.",
 		"",
-		"Collect your reward by selecting a crate of starting equipment.",
+		"选择一个奖励箱获得初始装备.",
 		"",
-		"You can select from Ranger, Wizard, and Warrior.",
+		"你可以从护林员, 巫师以及战士中选择.",
 		"",
-		"You will also be permitted to select one early gadget to aid you on your adventures! Choose wisely!"
+		"当然也可以选择一个早期的小工具来在冒险中回复! 谨慎选择!"
 	],
 	dependencies: [
 		"35def456"

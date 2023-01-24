@@ -1,16 +1,16 @@
 {
-	title: "Begone!",
+	title: "滚开!",
 	x: 16.5d,
 	y: 0.0d,
-	description: "Removes all the bad stuff... and the good stuff.",
+	description: "移除所有坏的东西……和好东西.",
 	text: [
-		"The Disenchanting Table will remove the first enchant from an item using a Book.",
+		"祛魔台可以用书移除物品的第一个附魔.",
 		"",
-		"Some durability will also be removed from the item you are disenchanting.",
+		"祛魔的同时物品的耐久也会损耗.",
 		"",
-		"You CAN break your items when using this method. If you want to remove many enchants from one item, be sure to keep it repaired during the process.",
+		"用这个方法可以损毁物品. 如果想祛除单个物品上的很多附魔, 确保在此过程中一直修复.",
 		"",
-		"Other methods exist though they may be more costly."
+		"当然也有其他办法但会花费更多."
 	],
 	dependencies: [
 		"a05c73b5"
