@@ -1,10 +1,10 @@
 {
-	title: "Now Do It Again",
+	title: "现在再做一次",
 	x: 3.5d,
 	y: -18.5d,
-	description: "Oh yes... Oh YES...",
+	description: "Oh yes... Oh YES...（不能翻译）",
 	text: [
-		"I'M TIRED GRANDPA!"
+		"I'M TIRED GRANDPA!（不能翻译）"
 	],
 	dependencies: [
 		"09bb4f61"
