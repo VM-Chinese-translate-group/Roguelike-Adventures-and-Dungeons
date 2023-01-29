@@ -4,7 +4,7 @@
 	y: -6.5d,
 	description: "听起来不错啊",
 	text: [
-		"制造所有紫水晶物品."
+		"制造所有紫水晶物品。"
 	],
 	dependencies: [
 		"38e4f189"

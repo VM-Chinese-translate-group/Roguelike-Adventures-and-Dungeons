@@ -2,9 +2,9 @@
 	title: "Golden Granny（NFT艺术品）",
 	x: 12.5d,
 	y: -4.5d,
-	description: "好吃有多汁.",
+	description: "好吃有多汁。",
 	text: [
-		"你吃过之后就再也不会为这个付钱了."
+		"你吃过之后就再也不会为这个付钱了。"
 	],
 	dependencies: [
 		"52178774"

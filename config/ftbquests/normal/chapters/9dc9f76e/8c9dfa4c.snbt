@@ -2,9 +2,9 @@
 	title: "纵深升级",
 	x: -10.5d,
 	y: 3.5d,
-	description: "没有比这更好的了.",
+	description: "没有比这更好的了。",
 	text: [
-		"给你的帐篷增加五格纵深！ 合成表查看 JEI ."
+		"给你的帐篷增加五格纵深！ 合成表查看 JEI 。"
 	],
 	dependencies: [
 		"dd9ababa"

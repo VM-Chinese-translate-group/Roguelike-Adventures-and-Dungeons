@@ -4,9 +4,9 @@
 	y: 8.5d,
 	description: "啊呜呜！",
 	text: [
-		"小骨头让狗永远变小.",
+		"小骨头让狗永远变小。",
 		"",
-		"大骨头让狗永远变大."
+		"大骨头让狗永远变大。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [

@@ -3,7 +3,7 @@
 	x: -22.0d,
 	y: -2.0d,
 	text: [
-		"Enables trading between players."
+		"Enables trading between players。"
 	],
 	can_repeat: true,
 	tasks: [{

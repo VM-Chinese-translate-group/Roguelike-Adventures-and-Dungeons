@@ -4,7 +4,7 @@
 	y: -6.0d,
 	description: "大海? 他喜欢你",
 	text: [
-		"获得海王套装中任意一件."
+		"获得海王套装中任意一件。"
 	],
 	dependencies: [
 		"2dc7b27e"

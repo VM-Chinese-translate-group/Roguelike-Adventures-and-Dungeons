@@ -4,7 +4,7 @@
 	y: -1.5d,
 	description: "让你的舌头变蓝",
 	text: [
-		"别真的吃它."
+		"别真的吃它。"
 	],
 	dependencies: [
 		"98cd26ae"

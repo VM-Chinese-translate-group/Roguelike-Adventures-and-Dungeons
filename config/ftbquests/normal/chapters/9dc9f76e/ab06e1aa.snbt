@@ -4,7 +4,7 @@
 	y: -4.5d,
 	description: "从2011年开始挖空区块",
 	text: [
-		"制作或获得一把钻石镐."
+		"制作或获得一把钻石镐。"
 	],
 	dependencies: [
 		"14d5a3cd"
