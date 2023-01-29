@@ -2,7 +2,7 @@
 	title: "到访主世界",
 	x: -9.0d,
 	y: -3.0d,
-	description: "这地方有点.... 似曾相识",
+	description: "这地方有点……. 似曾相识",
 	text: [
 		"你做到了！ 你下载了 RAD 并且开始你的冒险！",
 		"",
@@ -11,7 +11,7 @@
 	tasks: [{
 		uid: "4896abf0",
 		type: "dimension",
-		title: "Visit the Overworld (Well I mean you kinda live here...)",
+		title: "到访主世界 (这地方有点似曾相识……)",
 		dim: 0
 	}],
 	rewards: [{
