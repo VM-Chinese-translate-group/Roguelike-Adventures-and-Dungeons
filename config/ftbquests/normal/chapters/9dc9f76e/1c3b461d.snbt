@@ -2,7 +2,7 @@
 	title: "在你的腰上",
 	x: 5.5d,
 	y: -18.0d,
-	description: "赶紧走吧!",
+	description: "赶紧走吧！",
 	text: [
 		"能让玩家在一个格子里存许多药水.",
 		"",

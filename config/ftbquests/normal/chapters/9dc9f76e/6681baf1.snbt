@@ -1,5 +1,5 @@
 {
-	title: "初始装备选择!",
+	title: "初始装备选择！",
 	icon: {
 		id: "ftbquests:lootcrate",
 		tag: {
@@ -8,7 +8,7 @@
 	},
 	x: -7.0d,
 	y: -3.0d,
-	description: "从今日起开始你的冒险!",
+	description: "从今日起开始你的冒险！",
 	text: [
 		"点检查标记完成这个任务.",
 		"",
@@ -16,7 +16,7 @@
 		"",
 		"你可以从护林员, 巫师以及战士中选择.",
 		"",
-		"当然也可以选择一个早期的小工具来在冒险中回复! 谨慎选择!"
+		"当然也可以选择一个早期的小工具来在冒险中回复！ 谨慎选择！"
 	],
 	dependencies: [
 		"35def456"
@@ -24,7 +24,7 @@
 	tasks: [{
 		uid: "0616f076",
 		type: "checkmark",
-		title: "Ready to roll!"
+		title: "准备就绪！"
 	}],
 	rewards: [{
 		uid: "ea40f0d8",

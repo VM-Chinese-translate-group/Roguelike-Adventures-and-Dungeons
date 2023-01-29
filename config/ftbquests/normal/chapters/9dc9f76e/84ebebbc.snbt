@@ -2,11 +2,11 @@
 	title: "年度踩葡萄大赛",
 	x: 0.5d,
 	y: 3.5d,
-	description: "我觉得你能得第一!",
+	description: "我觉得你能得第一！",
 	text: [
 		"压榨木盆只能放入Rustic的物品. ",
 		"",
-		"其他东西不能再压榨木盆里挤. 骚瑞!"
+		"其他东西不能再压榨木盆里挤. 骚瑞！"
 	],
 	dependencies: [
 		"ecd0a29d"

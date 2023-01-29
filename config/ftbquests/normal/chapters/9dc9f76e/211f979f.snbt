@@ -1,10 +1,10 @@
 {
-	title: "美味佳肴!",
+	title: "美味佳肴！",
 	x: -2.5d,
 	y: -1.5d,
 	description: "有一点汞，但不会伤人",
 	text: [
-		"努力制作所有Aquaculture的鱼!"
+		"努力制作所有Aquaculture的鱼！"
 	],
 	dependencies: [
 		"c42172ba"

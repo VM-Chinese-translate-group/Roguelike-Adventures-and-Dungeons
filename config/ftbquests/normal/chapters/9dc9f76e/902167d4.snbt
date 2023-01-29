@@ -2,7 +2,7 @@
 	title: "背包也疯狂Inventory Insanity",
 	x: -5.0d,
 	y: -7.0d,
-	description: "确保你给他们起了名字!",
+	description: "确保你给他们起了名字！",
 	text: [
 		"每一个都与众不同. 我保证.",
 		"",

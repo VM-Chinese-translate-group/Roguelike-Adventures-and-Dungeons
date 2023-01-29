@@ -4,7 +4,7 @@
 	y: -5.0d,
 	description: "火前火",
 	text: [
-		"这一定能带你向前! "
+		"这一定能带你向前！ "
 	],
 	dependencies: [
 		"b325bb25"

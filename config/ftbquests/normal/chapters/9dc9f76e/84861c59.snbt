@@ -2,7 +2,7 @@
 	title: "亚特兰蒂斯军备",
 	x: -1.0d,
 	y: -7.0d,
-	description: "来自最黑暗的深处!",
+	description: "来自最黑暗的深处！",
 	text: [
 		"获得全套海王工具."
 	],

@@ -14,7 +14,7 @@
 	tasks: [{
 		uid: "9e0b0e1b",
 		type: "checkmark",
-		title: "Let's do it!"
+		title: "我们开始吧！"
 	}],
 	rewards: [{
 		uid: "576e6f1e",

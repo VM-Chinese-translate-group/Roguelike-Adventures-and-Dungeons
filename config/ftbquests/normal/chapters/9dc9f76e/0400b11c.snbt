@@ -1,12 +1,12 @@
 {
-	title: "我的第一只修狗!",
+	title: "我的第一只修狗！",
 	x: -5.5d,
 	y: 7.5d,
-	description: "现在就好好招待它!",
+	description: "现在就好好招待它！",
 	text: [
-		"给狗吃训练口粮可以把它转变成Doggy Talents的狗!",
+		"给狗吃训练口粮可以把它转变成Doggy Talents的狗！",
 		"",
-		"给狗狗喂训练口粮到20级!"
+		"给狗狗喂训练口粮到20级！"
 	],
 	dependencies: [
 		"a455aa9f"

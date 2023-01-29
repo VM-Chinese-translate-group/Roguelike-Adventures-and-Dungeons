@@ -1,10 +1,10 @@
 {
-	title: "培根?!",
+	title: "培根?！",
 	x: -3.5d,
 	y: 7.5d,
-	description: "培根，培根，培培根!!",
+	description: "培根，培根，培培根！！",
 	text: [
-		"给你的狗狗喂专业口粮直到60级!"
+		"给你的狗狗喂专业口粮直到60级！"
 	],
 	dependencies: [
 		"d75162de"

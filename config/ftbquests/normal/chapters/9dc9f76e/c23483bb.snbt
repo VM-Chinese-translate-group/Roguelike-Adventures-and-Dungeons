@@ -1,9 +1,9 @@
 {
-	title: "搭建桥梁工坊!",
+	title: "搭建桥梁工坊！",
 	icon: "ropebridge:bridge_builder",
 	x: 3.5d,
 	y: -4.5d,
-	description: "加上梯子!",
+	description: "加上梯子！",
 	text: [
 		"在远处可用长按右键后松开搭建桥和梯子。.",
 		"",
