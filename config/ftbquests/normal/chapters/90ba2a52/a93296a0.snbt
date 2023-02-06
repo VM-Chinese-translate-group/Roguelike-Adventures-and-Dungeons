@@ -5,7 +5,6 @@
 	description: "离我远点！",
 	text: [
 		"击杀50只游牧人。"
-		"",
 		"（译者注：mad->生气,nomad->游牧人）"
 	],
 	can_repeat: true,
