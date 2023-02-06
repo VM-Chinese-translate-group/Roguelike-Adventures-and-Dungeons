@@ -5,7 +5,7 @@
 	description: "永远摆脱！",
 	text: [
 		"击杀25只在暮初恶魂塔的怪物。",
-		"",
+		""
 	],
 	can_repeat: true,
 	or_tasks: true,
