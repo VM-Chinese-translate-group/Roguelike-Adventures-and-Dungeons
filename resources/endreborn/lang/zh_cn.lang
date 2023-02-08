@@ -1,12 +1,12 @@
-language.name=English
-language.region=United States
-language.code=en_us
+language.name=简体中文
+language.region=中国大陆
+language.code=zh_cn
 
 ###MISSING
-enchantment.endreborn.ender_core.desc=Randomly teleports on user hit.
-enchantment.endreborn.ender_killer.desc=Deals additional damage to ender-mobs.
-enchantment.endreborn.shulker_core.desc=Target entity on hit gets levitation effect.
+enchantment.endreborn.ender_core.desc=受到攻击时随机传送
+enchantment.endreborn.ender_killer.desc=对末地生物造成额外伤害
+enchantment.endreborn.shulker_core.desc=命中目标时使其悬浮
 
-entity.Villager.endreborn.overworld_explorer=World Explorer
-entity.Villager.endreborn.end_explorer=End Explorer
-entity.Villager.endreborn.nether_explorer=Nether Explorer
+entity.Villager.endreborn.overworld_explorer=主世界探索家
+entity.Villager.endreborn.end_explorer=末地探险家
+entity.Villager.endreborn.nether_explorer=下届探险家
