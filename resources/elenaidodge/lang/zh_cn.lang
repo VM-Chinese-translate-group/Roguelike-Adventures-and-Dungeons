@@ -1,70 +1,70 @@
-key.elenaidodge.dodge=Dodge
-elenaidodge.general.common.skystrides.skystrides=Skystrides Override
-elenaidodge.general.common.balance.potions=Potion Blacklist
+key.elenaidodge.dodge=闪避
+elenaidodge.general.common.skystrides.skystrides=空中闪避
+elenaidodge.general.common.balance.potions=药水黑名单
 
-reskillable.unlock.elenaidodge.dodge=Dodge
-reskillable.unlock.elenaidodge.dodge.desc=Your hardwork is finally starting to pay off. You are now able to dodge enemy attacks!
+reskillable.unlock.elenaidodge.dodge=闪避
+reskillable.unlock.elenaidodge.dodge.desc=你的努力终于有了回报！你现在可以躲避敌人的攻击了！
 
-reskillable.unlock.elenaidodge.walljump=Wall Jump
-reskillable.unlock.elenaidodge.walljump.desc=Push off the side of block walls by facing away from them and pressing the 'jump' key whilst in mid-air!
+reskillable.unlock.elenaidodge.walljump=蹬墙跳
+reskillable.unlock.elenaidodge.walljump.desc=在半空中时背对墙面按下跳跃键，蹬墙跳跃！
 
-reskillable.unlock.elenaidodge.ledgegrab=Ledge Grab
-reskillable.unlock.elenaidodge.ledgegrab.desc=Pull yourself over the top of block walls by facing towards them and pressing the 'jump' key whilst in mid-air!
+reskillable.unlock.elenaidodge.ledgegrab=悬挂
+reskillable.unlock.elenaidodge.ledgegrab.desc=在半空中时面朝墙面跳跃按下跳跃键将自己悬挂在墙面的边缘！
 
-tutorial.dodge.title=Hold down %s
-tutorial.dodge.description=Dodge with %s, %s, %s or %s
+tutorial.dodge.title=按住 %s 键
+tutorial.dodge.description=使用 %s, %s, %s 或者 %s 进行闪避！
 
-tutorial.doubledodge.title=Double tap %s, %s or %s
-tutorial.doubledodge.description=Dash with %s
+tutorial.doubledodge.title=双击 %s, %s 或者 %s
+tutorial.doubledodge.description=按下 %s 冲刺！
 
-tutorial.forwardsdoubledodge.title=Dodging
-tutorial.forwardsdoubledodge.description=Double tap %s, %s, %s or %s
+tutorial.forwardsdoubledodge.title=连续翻滚
+tutorial.forwardsdoubledodge.description=双击 %s, %s, %s 或 %s
 
-potion.effect.can_dodge=Elenai's Blessing
-splash_potion.effect.can_dodge=Splash Potion of Elenai's Blessing
-lingering_potion.effect.can_dodge=Lingering Potion of Elenai's Blessing
-tipped_arrow.effect.can_dodge=Arrow of Elenai's Blessing
-effect.can_dodge=Elenai's Blessing
+potion.effect.can_dodge=Elenai的祝福药水
+splash_potion.effect.can_dodge=喷溅型Elenai的祝福药水
+lingering_potion.effect.can_dodge=滞留型Elenai的祝福药水
+tipped_arrow.effect.can_dodge=Elenai的祝福之箭
+effect.can_dodge=Elenai的祝福
 
-potion.effect.sluggish=Potion of Sluggish
-splash_potion.effect.sluggish=Splash Potion of Sluggish
-lingering_potion.effect.sluggish=Lingering Potion of Sluggish
-tipped_arrow.effect.sluggish=Arrow of Sluggish
-effect.sluggish=Sluggish
+potion.effect.sluggish=迟钝药水
+splash_potion.effect.sluggish=喷溅型迟钝药水
+lingering_potion.effect.sluggish=滞留型迟钝药水
+tipped_arrow.effect.sluggish=迟钝之箭
+effect.sluggish=迟钝
 
-potion.effect.skystride=Potion of Skystride
-splash_potion.effect.skystride=Splash Potion of Skystride
-lingering_potion.effect.skystride=Lingering Potion of Skystride
-tipped_arrow.effect.skystride=Arrow of Skystride
-effect.skystride=Skystride
+potion.effect.skystride=空翻药水
+splash_potion.effect.skystride=喷溅型空翻药水
+lingering_potion.effect.skystride=滞留型空翻药水
+tipped_arrow.effect.skystride=空翻之箭
+effect.skystride=空翻
 
-potion.effect.nimble=Potion of the Nimble
-splash_potion.effect.nimble=Splash Potion of the Nimble
-lingering_potion.effect.nimble=Lingering Potion of the Nimble
-tipped_arrow.effect.nimble=Arrow of the Nimble
-effect.nimble=Nimble
+potion.effect.nimble=灵巧药水
+splash_potion.effect.nimble=喷溅型灵巧药水
+lingering_potion.effect.nimble=滞留型灵巧药水
+tipped_arrow.effect.nimble=灵巧之箭
+effect.nimble=灵巧
 
-potion.effect.climber=Potion of the Climber
-splash_potion.effect.climber=Splash Potion of the Climber
-lingering_potion.effect.climber=Lingering Potion of the Climber
-tipped_arrow.effect.climber=Arrow of the Climber
-effect.climber=Climber
+potion.effect.climber=攀缘药水
+splash_potion.effect.climber=喷溅型攀缘药水
+lingering_potion.effect.climber=滞留型攀缘药水
+tipped_arrow.effect.climber=攀缘之箭
+effect.climber=攀缘
 
-potion.effect.forceful=Potion of Forcefulness
-splash_potion.effect.forceful=Splash Potion of Forcefulness
-lingering_potion.effect.forceful=Lingering Potion of Forcefulness
-tipped_arrow.effect.forceful=Arrow of Forcefulness
+potion.effect.forceful=强壮药水
+splash_potion.effect.forceful=喷溅型强壮药水
+lingering_potion.effect.forceful=滞留型强壮药水
+tipped_arrow.effect.forceful=强壮之箭
 effect.forceful=Forceful
 
-potion.effect.feeble=Potion of Feebleness
-splash_potion.effect.feeble=Splash Potion of Feebleness
-lingering_potion.effect.feeble=Lingering Potion of Feebleness
-tipped_arrow.effect.feeble=Arrow of Feebleness
-effect.feeble=Feeble
+potion.effect.feeble=无力药水
+splash_potion.effect.feeble=喷溅型无力药水
+lingering_potion.effect.feeble=滞留型无力药水
+tipped_arrow.effect.feeble=无力之箭
+effect.feeble=无力
 
-enchantment.lightweight=Lightweight
-enchantment.lightweight.desc=Decreases weight to provide more Dodges.
-enchantment.elenaidodge.lightweight.desc=Decreases weight to provide more Dodges.
+enchantment.lightweight=轻装上阵
+enchantment.lightweight.desc=减轻装甲重量，减少其对耐力值的影响
+enchantment.elenaidodge.lightweight.desc=减轻装甲重量，减少其对耐力值的影响
 
-item.elenaidodge.golden_feather.name=Gold Feathery Ingot
-item.elenaidodge.iron_feather.name=Iron Feathery Ingot
+item.elenaidodge.golden_feather.name=金羽毛锭
+item.elenaidodge.iron_feather.name=铁羽毛锭
