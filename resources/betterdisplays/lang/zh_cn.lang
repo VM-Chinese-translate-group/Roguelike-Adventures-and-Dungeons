@@ -2,23 +2,23 @@
 
 # OVERRIDES
 
-itemGroup.betterdisplays=Better Displays
-tile.betterdisplays\:display_case.name=Display Case
-tile.betterdisplays\:display_case_framed.name=Full Framed Display Case
-tile.betterdisplays\:display_case_framed_no_top.name=Framed Display Case
-tile.betterdisplays\:display_case_small.name=Small Display Case
-tile.betterdisplays\:display_case_small_framed.name=Small Framed Display Case
-tile.betterdisplays\:book_holder.name=Book Holder
-tile.betterdisplays\:book_holder_empty.name=Empty Book Holder
-tile.betterdisplays\:book_holder_oak.name=Oak Book Holder
-tile.betterdisplays\:book_holder_spruce.name=Spruce Book Holder
-tile.betterdisplays\:book_holder_jungle.name=Jungle Book Holder
-tile.betterdisplays\:book_holder_dark_oak.name=Dark Oak Book Holder
-tile.betterdisplays\:book_holder_acacia.name=Acacia Book Holder
-tile.betterdisplays\:book_holder_birch.name=Birch Book Holder
+itemGroup.betterdisplays=更好的展示
+tile.betterdisplays\:display_case.name=展示柜
+tile.betterdisplays\:display_case_framed.name=全框展示柜
+tile.betterdisplays\:display_case_framed_no_top.name=框架展示柜
+tile.betterdisplays\:display_case_small.name=小型展示柜
+tile.betterdisplays\:display_case_small_framed.name=小型框架展示柜
+tile.betterdisplays\:book_holder.name=立书架
+tile.betterdisplays\:book_holder_empty.name=空的立书架
+tile.betterdisplays\:book_holder_oak.name=橡木立书架
+tile.betterdisplays\:book_holder_spruce.name=云杉木立书架
+tile.betterdisplays\:book_holder_jungle.name=从林木立书架
+tile.betterdisplays\:book_holder_dark_oak.name=深色橡木立书架
+tile.betterdisplays\:book_holder_acacia.name=金合欢木立书架
+tile.betterdisplays\:book_holder_birch.name=白桦木立书架
 
 # settings
-config.betterdisplays\:title.general=General Settings
-config.betterdisplays\:title.settings=General settings of the Better Displays mod
-config.betterdisplays\:subtitle.general=General settings of the Better Displays mod
-config.betterdisplays\:subtitle.settings=General settings of the Better Displays mod
+config.betterdisplays\:title.general=全局设置
+config.betterdisplays\:title.settings=更好的展示 mod 的全局设置
+config.betterdisplays\:subtitle.general=更好的展示 mod 的全局设置
+config.betterdisplays\:subtitle.settings=更好的展示 mod 的全局设置
