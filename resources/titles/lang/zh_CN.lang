@@ -79,7 +79,7 @@ title.minecraft.adventure.adventuring_time=旅人
 title.minecraft.adventure.sniper_duel=狙击手
 
 #nether
-title.minecraft.nether.fast_travel=空间穿梭
+title.minecraft.nether.fast_travel=空间穿梭者
 title.minecraft.nether.return_to_sender=邮递员
 title.minecraft.nether.uneasy_alliance=背叛者
 title.minecraft.nether.brew_potion=酿造师
@@ -94,4 +94,4 @@ title.minecraft.end.enter_end_gateway=虚空行者
 title.minecraft.end.respawn_dragon=复活者
 title.minecraft.end.dragon_breath=危险人员
 title.minecraft.end.elytra=翱翔天际
-title.minecraft.end.levitate=漂浮者
+title.minecraft.end.levitate=飘浮者
