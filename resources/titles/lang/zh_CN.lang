@@ -25,7 +25,7 @@ item.archiveFragment.name=档案碎片
 
 # Misc
 chat.title.add=%s 解锁了头衔 (%s) 
-titles.modid=Titles
+titles.modid=头衔
 
 # Advancements
 advancement.titles.root.desc=秀出你的成就!
