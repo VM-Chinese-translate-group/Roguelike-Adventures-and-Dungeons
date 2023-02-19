@@ -1,25 +1,25 @@
 # Enchantment Names
-enchantment.vtweaks:lumbering=Lumbering
-enchantment.vtweaks:imperishable=Imperishable
+enchantment.vtweaks:lumbering=伐木
+enchantment.vtweaks:imperishable=不朽
 
 # Death Point
-vtweaks.deathpoint.msg=Your most recent death was at [X: %s, Y: %s, Z: %s]
+vtweaks.deathpoint.msg=你最近的死亡点在 [X: %s, Y: %s, Z: %s]
 
 # Challenger Mob Names
-vtweaks.mighty.challenger.mob=Mighty %s
-vtweaks.hungry.challenger.mob=Hungry %s
-vtweaks.ranger.challenger.mob=Ranger %s
-vtweaks.arcane.challenger.mob=Arcane %s
-vtweaks.pyro.challenger.mob=Pyro %s
-vtweaks.zestonian.challenger.mob=Zestonian %s
-vtweaks.reinforced.challenger.mob=Hardened %s
-vtweaks.agile.challenger.mob=Agile %s
+vtweaks.mighty.challenger.mob=强壮 %s
+vtweaks.hungry.challenger.mob=饥饿 %s
+vtweaks.ranger.challenger.mob=护林员 %s
+vtweaks.arcane.challenger.mob=神秘 %s
+vtweaks.pyro.challenger.mob=纵火狂 %s
+vtweaks.zestonian.challenger.mob=泽斯通酸盐 %s
+vtweaks.reinforced.challenger.mob=硬化 %s
+vtweaks.agile.challenger.mob=敏捷 %s
 
 # V-Tweaks intro link
 
-vtweaks.intro.link=V-Tweaks Online Wiki
-vtweaks.intro.message=Welcome %s! Seems like this is your first time running V-Tweaks in this world! Here's a link to an online wiki if you're interested, keep in mind some features may be disabled!
+vtweaks.intro.link=V-Tweaks维基百科地址
+vtweaks.intro.message=欢迎%s！看起来这是你第一次在这个世界运行V-Tweaks！如果你感兴趣，这是V-Tweaks的维基百科地址，请注意某些功能可能被禁用！
 
 # Enchantment Descriptions Compatability
-enchantment.vtweaks.lumbering.desc=§3While Sneaking:§r Fells an entire tree when breaking any wood block of the tree. §4§lWorks on non-trees too§r
-enchantment.vtweaks.imperishable.desc=Saves your tool or armor piece from breaking, thus §ldisabling the item's functionality until repaired.§r
+enchantment.vtweaks.lumbering.desc=§3While Sneaking:§r 一次性砍掉整棵树与紧邻的原木。§4§l不是树也同样生效.§r
+enchantment.vtweaks.imperishable.desc=避免盔甲及工具等耐久耗尽损坏, 但§l该物品在修复前将无法使用。§r
