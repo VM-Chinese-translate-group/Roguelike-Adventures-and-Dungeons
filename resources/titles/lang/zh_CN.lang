@@ -12,7 +12,7 @@ gui.titles.titleselection.empty=解锁成就以获得头衔!
 gui.titles.titlearchive.empty=你已经购买了所有可用标题。
 
 # Commands
-commands.titles.usage=/titles <命令>
+commands.titles.usage=/titles <command>
 
 # Entities
 
