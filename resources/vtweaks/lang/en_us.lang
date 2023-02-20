@@ -22,4 +22,4 @@ vtweaks.intro.message=欢迎%s！看起来这是你第一次在这个世界运�
 
 # Enchantment Descriptions Compatability
 enchantment.vtweaks.lumbering.desc=§3While Sneaking:§r 一次性砍掉整棵树与其相邻的原木。§4§l不是树也同样生效§r
-enchantment.vtweaks.imperishable.desc=避免盔甲及工具等耐久耗尽损坏, 但§l该物品在修复前将无法使用。§r
+enchantment.vtweaks.imperishable.desc=避免盔甲及工具等耐久耗尽损坏，但§l该物品在修复前将无法使用。§r
