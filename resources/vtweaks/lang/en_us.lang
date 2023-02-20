@@ -21,5 +21,5 @@ vtweaks.intro.link=V-Tweaks维基百科地址
 vtweaks.intro.message=欢迎%s！看起来这是你第一次在这个世界运行V-Tweaks！如果你感兴趣，这是V-Tweaks的维基百科地址，请注意某些功能可能被禁用！
 
 # Enchantment Descriptions Compatability
-enchantment.vtweaks.lumbering.desc=§3While Sneaking:§r 一次性砍掉整棵树与紧邻的原木。§4§l不是树也同样生效.§r
+enchantment.vtweaks.lumbering.desc=§3While Sneaking:§r 一次性砍掉整棵树与其相邻的原木。§4§l不是树也同样生效§r
 enchantment.vtweaks.imperishable.desc=避免盔甲及工具等耐久耗尽损坏, 但§l该物品在修复前将无法使用。§r
