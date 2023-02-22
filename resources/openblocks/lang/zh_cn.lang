@@ -4,4 +4,4 @@ language.code=zh_cn
 
 ###MISSING
 enchantment.openblocks.last_stand.desc=使用经验值抵消致死的伤害。
-enchantment.openblocks.flim_flam.desc=当受到伤害时，降低攻击者的幸运值。
+enchantment.openblocks.flim_flam.desc=给其他玩家带去厄运。
