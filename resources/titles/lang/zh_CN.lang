@@ -30,7 +30,7 @@ titles.modid=头衔
 # Advancements
 advancement.titles.root.desc=秀出你的成就!
 advancement.titles.spelunker=你还能到多深？
-advancement.titles.spelunker.desc=到达Y轴20格以下!
+advancement.titles.spelunker.desc=到达Y轴20格以下！
 advancement.titles.chicken_chaser=你抓小鸡吗!
 advancement.titles.chicken_chaser.desc=击杀一只小鸡
 advancement.titles.captain=扬帆起航!
