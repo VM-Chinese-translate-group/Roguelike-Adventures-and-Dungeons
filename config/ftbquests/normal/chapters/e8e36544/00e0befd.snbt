@@ -12,13 +12,13 @@
 		"",
 		"从方块上的面输出物品会输出格子中的所有物品，直到没有物品可输出为止。不会从你的快捷栏输出出。",
 		"",
-		"想有控制的从物品栏输出， 简单的方法使用余烬的Item Requisitioners  to control which items are requested for export out of your inventory, like Dirt, Cobblestone, Stone, and Ores. ",
+		"想有控制的从物品栏输出， 简单的方法使用余烬的传输物品系统来控制物品的输出，例如泥土，圆石，石头，和矿物。",
 		"",
-		"To do this, set up your Item Req. to an inventory, and link it to an Item Extractor connected to your 玩家接口.",
+		"要做到这个，设置你的物品请求. 连接到物品栏, 并且连接物品输出器到你的玩家接口.",
 		"",
-		"Regulation of exporting from 玩家接口 is much harder than the regulation of importing.",
+		"从玩家接口的输出的监控比物品输入要难很多.",
 		"",
-		"It is recommended to use this item in conjuction with an Inventory Rerouter."
+		"推荐用这个物品在连接时用——物流管理器."
 	],
 	tasks: [{
 		uid: "f1c2024e",
