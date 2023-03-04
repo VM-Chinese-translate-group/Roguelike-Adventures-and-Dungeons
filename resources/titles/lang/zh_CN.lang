@@ -28,7 +28,7 @@ chat.title.add=%s 解锁了头衔 (%s)
 titles.modid=头衔
 
 # Advancements
-advancement.titles.root.desc=秀出你的成就!
+advancement.titles.root.desc=展露你的功绩
 advancement.titles.spelunker=你还能到多深？
 advancement.titles.spelunker.desc=到达Y轴20格以下！
 advancement.titles.chicken_chaser=你抓小鸡吗!
