@@ -1,14 +1,14 @@
 {
-	title: "No Air Pockets",
+	title: "无空气",
 	x: 1.5d,
 	y: -6.0d,
-	description: "Actually, just no air",
+	description: "事实上, 就是没空气",
 	text: [
-		"This scepter does not replace air. The only blocks which are replaced by this scepter are those which are Right-Clicked.",
+		"这个权杖不会替换空气. 权杖唯一会替换的就是右键点击的方块.",
 		"",
-		"That single matching block will be replaced.",
+		"只有匹配上的方块才会替换.",
 		"",
-		"Again, blocks must be in your inventory and are not consumed from your hotbar."
+		"另外, 方块必须在背包里而且不会先消耗快捷栏的."
 	],
 	tasks: [{
 		uid: "7f93274a",
