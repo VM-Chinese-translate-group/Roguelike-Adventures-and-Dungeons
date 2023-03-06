@@ -1,12 +1,12 @@
 {
-	title: "Taking Over The World With Redstone",
+	title: "用红石征服世界",
 	x: -0.5d,
 	y: -11.0d,
-	description: "Not really, energy doesn't exist in this pack",
+	description: "不，不可能在这个包里",
 	text: [
-		"Sike, just double tricked you for the third time.",
+		"Sike，这已经是第三次骗你了.",
 		"",
-		"This book is annoying to navigate, but will provide all knowledge for every item in the mod."
+		"这本书指导非常烦人，但会展示所有mod中物品的知识."
 	],
 	tasks: [{
 		uid: "ad4e5760",
