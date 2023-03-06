@@ -2,9 +2,9 @@
 	title: "Ol' Trusty",
 	x: 16.5d,
 	y: -4.5d,
-	description: "Digging out chunks since 2011",
+	description: "从2011年开始挖空区块",
 	text: [
-		"Craft or obtain a Diamond Pickaxe."
+		"制作或获得一把钻石镐。"
 	],
 	dependencies: [
 		"14d5a3cd"

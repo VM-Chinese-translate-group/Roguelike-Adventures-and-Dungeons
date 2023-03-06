@@ -1,12 +1,12 @@
 {
-	title: "The Hottest Cup of Joe Ever ",
+	title: "乔喝过最烫的一杯咖啡 ",
 	x: 2.0d,
 	y: -6.5d,
-	description: "If Joe was molten rock",
+	description: "如果乔是熔化的岩石",
 	text: [
-		"Scoop up that lava and pour it over some water!",
+		"舀起熔岩，倒在水里！",
 		"",
-		"You've got places to be and you're going there!"
+		"你有地方要去就是那里！"
 	],
 	dependencies: [
 		"b325bb25"

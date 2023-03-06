@@ -1,22 +1,22 @@
 {
-	title: "The Deep Dank Dark",
+	title: "深邃潮湿的黑暗",
 	x: -9.0d,
 	y: -7.0d,
-	description: "And not the Betweenlands we're talkin here!",
+	description: "这里不是我们说的不是！",
 	text: [
-		"This dark is so dank, you die!",
+		"黑暗太潮湿了，你会死的！",
 		"",
-		"Talk about potent!",
+		"说到有力！",
 		"",
-		"No really, it's very dangerous here.",
+		"真的，这里非常危险。",
 		"",
-		"The darkness will hurt you. Literally.",
+		"黑暗会伤害你。字面上的。",
 		"",
-		"Monsters are now nightmares.",
+		"怪物现在是噩梦。",
 		"",
-		"BUT!---- The dimension is littered with ponds of gold and silver!",
+		"但-是！---- 次元里到处都是金池塘和银池塘！",
 		"",
-		"Must be good..."
+		"一定很棒……"
 	],
 	size: 3.0d,
 	tasks: [{
