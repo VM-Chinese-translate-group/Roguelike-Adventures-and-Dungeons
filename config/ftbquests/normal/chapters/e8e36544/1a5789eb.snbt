@@ -1,12 +1,12 @@
 {
-	title: "Built to Last",
+	title: "经久耐用",
 	x: -1.5d,
 	y: -9.5d,
-	description: "Ooo they come with a warranty!",
+	description: "哦，他们有保修!",
 	text: [
-		"These tools have double the durability of Diamond tools.",
+		"这些工具有钻石工具的两倍耐久.",
 		"",
-		"That's a nice thing to start with."
+		"是个开局好帮手."
 	],
 	dependencies: [
 		"efbea43d"
