@@ -1,12 +1,12 @@
 {
-	title: "Surprise Me",
+	title: "让我吃惊吧",
 	x: -16.5d,
 	y: 10.5d,
-	description: "You know I hate surprises, John",
+	description: "你知道我讨厌惊喜，李四",
 	text: [
-		"Well, the Randomizer never fails!",
+		"好吧，随机器从来不会失败!",
 		"",
-		"The Redstone Randomizer will take in a Redstone signal from it's single faced end, or the backside, and output a random signal to the left or right."
+		"红石随机器将从它的背面接收红石信号，并向左侧或右侧输出随机信号。"
 	],
 	tasks: [{
 		uid: "d9aa7c60",
