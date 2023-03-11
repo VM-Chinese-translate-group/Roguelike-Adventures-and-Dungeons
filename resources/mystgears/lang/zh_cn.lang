@@ -4,30 +4,30 @@ itemGroup.mystmech=Mystical Mechanics
 
 # Items
 
-item.mystgears.gear.name=@material 齿轮
+item.mystgears.gear.name=@material Gear
 
-item.gear_black_hole.name=黑洞齿轮
-item.gear_googly_eye.name=青蛙眼
-item.gear_flywheel_light.name=轻质飞轮
-item.gear_flywheel_heavy.name=重质飞轮
-item.gear_gearbox_cover.name=齿轮箱覆盖板
+item.gear_black_hole.name=Black Hole Gear
+item.gear_googly_eye.name=Googly Eye
+item.gear_flywheel_light.name=Light Flywheel
+item.gear_flywheel_heavy.name=Heavy Flywheel
+item.gear_gearbox_cover.name=Gearbox Cover
 
 material.wood.name=Wooden
-material.aether.name=天华
-material.cosmicneutronium.name=中子素
-material.elvenelementium.name=源质钢
-material.void.name=虚空金属
+material.aether.name=Aetherium
+material.cosmicneutronium.name=Neutronium
+material.elvenelementium.name=Elementium
+material.void.name=Void Metal
 
 
 # Blocks
 
-tile.redstone_dynamo.name=红石发电机
-tile.windup_box.name=发条箱
-tile.drill.name=钻头
-tile.drill_diamond.name=钻石钻头
-tile.mechanical_turret.name=机械转向塔
+tile.redstone_dynamo.name=Redstone Dynamo
+tile.windup_box.name=Windup Box
+tile.drill.name=Drill
+tile.drill_diamond.name=Diamond Drill
+tile.mechanical_turret.name=Mechanical Turret
 
-tile.mechanical_dial.name=机械能计量表
+tile.mechanical_dial.name=Mechanical Dial
 tile.ember_gatling_gun.name=Ember Gatling Gun
 tile.witchburn_gatling_gun.name=Witchburn Gatling Gun
 
@@ -43,26 +43,26 @@ tile.aura_engine.name=Aura Engine
 
 # Descriptions
 
-desc.gear.name=可以装载在齿轮箱上
-desc.gear.max.name=最大能量: @power
-desc.gear.transfer.name=能量传输: @transferx
-desc.attachment.name=可以作为转向塔配件
-desc.turret_skin.name=可以用于更换转向塔外观
-desc.flywheel.name=需要一些时间加/减速
-desc.gearanium.name=你让我刚好转了一圈
+desc.gear.name=Can be used in a gearbox
+desc.gear.max.name=Max power: @power
+desc.gear.transfer.name=Power transfer: @transferx
+desc.attachment.name=Can be used as a turret attachment
+desc.turret_skin.name=Can be used to skin a mechanical turret
+desc.flywheel.name=Takes some time to speed up and slow down
+desc.gearanium.name=You spin me right round
 
 
 # On screen tooltips
 
-mystgears.tooltip.mechdial.mech=机械能: %s
-mystgears.tooltip.mechdial.mech_input=§9⬊§r 机械能: %s
-mystgears.tooltip.mechdial.mech_output=§6⬉§r 机械能: %s
-mystgears.tooltip.turret.ride=右键以驾驶
-mystgears.tooltip.turret.add_attachment=手持配件右键以更换
-mystgears.tooltip.turret.remove_attachment=空手潜行右键以移除配件
-mystgears.tooltip.turret.gears=手持齿轮右键以更换 (仅装饰)
-mystgears.tooltip.turret.skin_primary=手持材料右键侧面以更改主色调
-mystgears.tooltip.turret.skin_secondary=手持材料右键顶部以更改第二色调
+mystgears.tooltip.mechdial.mech=Mechanical Power: %s
+mystgears.tooltip.mechdial.mech_input=§9⬊§r Mechanical Power: %s
+mystgears.tooltip.mechdial.mech_output=§6⬉§r Mechanical Power: %s
+mystgears.tooltip.turret.ride=Right click to ride
+mystgears.tooltip.turret.add_attachment=Right click with attachment to attach
+mystgears.tooltip.turret.remove_attachment=Sneak + right click with empty hand to remove attachment
+mystgears.tooltip.turret.gears=Right click with gear to change gears (cosmetic)
+mystgears.tooltip.turret.skin_primary=Right click side with ingot to change base skin
+mystgears.tooltip.turret.skin_secondary=Right click top with ingot to change accent skin
 
 
 # Embers Codex
