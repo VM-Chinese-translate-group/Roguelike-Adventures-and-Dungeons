@@ -1,12 +1,12 @@
 {
-	title: "Seems like It's for Destroying?",
+	title: "看起来像是用来破坏的?",
 	x: -2.202380952380949d,
 	y: -7.047619047619037d,
 	description: "Nah, nah, nah...",
 	text: [
-		"Dis here anvil is for repairing items with LAVA!",
+		"这里的铁砧是用熔岩修复物品!",
 		"",
-		"Pairs nicely with the Infernal Chalice."
+		"与炼狱圣杯完美搭配."
 	],
 	size: 1.5d,
 	tasks: [{

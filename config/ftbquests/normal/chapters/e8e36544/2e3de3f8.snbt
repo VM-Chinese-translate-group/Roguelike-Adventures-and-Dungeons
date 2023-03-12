@@ -1,10 +1,10 @@
 {
-	title: "Mad Duck?",
+	title: "疯狂的鸭子?",
 	x: 9.5d,
 	y: -13.892857142857153d,
-	description: "Quack",
+	description: "嘎嘎",
 	text: [
-		"Will break blocks in a 3x3 area."
+		"会在打破3x3内方块。"
 	],
 	size: 2.0d,
 	tasks: [{

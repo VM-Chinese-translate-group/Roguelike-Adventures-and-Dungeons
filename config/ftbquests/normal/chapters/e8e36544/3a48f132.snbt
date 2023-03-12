@@ -1,14 +1,14 @@
 {
-	title: "The Autobed?",
+	title: "自动床?",
 	x: 10.0d,
 	y: -7.5d,
-	description: "Does everything for you, including tucking you in!",
+	description: "为你做好一切，包括帮你盖好被子!",
 	text: [
-		"Allows you to sleep through the night. ",
+		"可以让你睡一觉。 ",
 		"",
-		"This item does NOT seem to set your spawn point.",
+		"这个道具似乎不能设置你的出生点。",
 		"",
-		"This means it can be used to simply sleep through the night, and continue travels during the day."
+		"所以你可用它在晚上睡觉，在白天继续旅行."
 	],
 	tasks: [{
 		uid: "59240042",

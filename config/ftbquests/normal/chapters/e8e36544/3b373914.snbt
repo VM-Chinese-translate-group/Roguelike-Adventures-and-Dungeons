@@ -1,18 +1,18 @@
 {
-	title: "So It's Always On?",
+	title: "所以它总是开着?",
 	x: 3.0d,
 	y: 10.0d,
-	description: "No, no, it's inverted...",
+	description: "不，不，是反的……",
 	text: [
-		"Upside-down?",
+		"上下颠倒?",
 		"",
-		"Okay, so the Advanced Redstone Torch has the regular ON and OFF state. Red for ON, green for OFF.",
+		"好的，所以高级红石火把有常开和关的状态。红色代表开，绿色代表关。",
 		"",
-		"You still need to get the torch into the OFF state through normal means; the difference is this one doesn't have to be \"off\" when it's OFF.",
+		"您仍然需要通过正常的方法使火炬进入关闭状态;不同的是，当它是关的时候，并不一定是“off”。",
 		"",
-		"You're able to configure the signal strength of both the ON and OFF states of the torch. This means when you manage to get the torch into it's OFF state by normal Redstone means, the power output MIGHT not be 0, if you don't want it to be.",
+		"您可以配置火炬的ON和OFF状态的信号强度。当你让火炬成正常红石手段的关闭状态，输出可能不是0。",
 		"",
-		"Pretty neat, huh?"
+		"很巧妙，对吧?"
 	],
 	tasks: [{
 		uid: "ae40a8ad",

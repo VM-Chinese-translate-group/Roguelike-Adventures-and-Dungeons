@@ -1,14 +1,14 @@
 {
-	title: "Clean Your Shower Door!",
+	title: "清洁淋浴门!",
 	x: -24.0d,
 	y: -3.5d,
-	description: "Jk I never did",
+	description: "我从来没有做过",
 	text: [
-		"It's actually to reduce soap scum build up.",
+		"这实际上是为了减少肥皂泡沫堆积。",
 		"",
-		"But in MINECRAFT it's used to remove Paint from blocks.",
+		"但在MC中，用于移除方块上的颜料。",
 		"",
-		"Right-Click to remove Paint from one side. Shift-Right-Click to remove Paint from all sides."
+		"右键点击清理一面颜料。右击shift可以清理所有面的颜料。"
 	],
 	tasks: [{
 		uid: "6892af12",

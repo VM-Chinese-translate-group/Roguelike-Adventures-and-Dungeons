@@ -1,14 +1,14 @@
 {
-	title: "Just like the Warlocks Make!",
+	title: "就像术士制造!",
 	x: 2.0d,
 	y: -12.0d,
-	description: "Be sure to give it to the Healer!",
+	description: "一定要交给医生!",
 	text: [
-		"Wow, you put it on the Tank.... okay... so no rez?",
+		"哇，你把它放在储罐上....好吧……没有保留区?",
 		"",
-		"Everyone walk back, I guess.",
+		"我猜大家都想回去吧。",
 		"",
-		"Some of you know my pain..."
+		"你们有些人知道我的痛……"
 	],
 	tasks: [{
 		uid: "298f7bc1",
