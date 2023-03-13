@@ -1,12 +1,12 @@
 {
-	title: "I Need More Mana!",
+	title: "爱你的摸马娜！",
 	x: -7.5d,
 	y: 7.5d,
-	description: "I can't cast that.",
+	description: "不能扔，别看了……",
 	text: [
-		"Going OOM is the worst.",
+		"如果为了完成一件事而做这件事，你是不会开心的。",
 		"",
-		"Prevent symptoms of being OOM by using this!"
+		"所以这个东西可以帮你！"
 	],
 	dependencies: [
 		"aa64e1f7"
