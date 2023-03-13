@@ -2,7 +2,7 @@
 	x: 1.5d,
 	y: 11.0d,
 	text: [
-		"Collect all unique tree saplings of Twilight"
+		"收集暮色森林中所有独特的树苗。"
 	],
 	tasks: [{
 		uid: "47ab2101",
