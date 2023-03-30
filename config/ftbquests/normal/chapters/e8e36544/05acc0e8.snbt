@@ -1,14 +1,14 @@
 {
-	title: "This Is Crazy...",
+	title: "这太疯狂了…",
 	x: -31.0d,
 	y: 4.0d,
-	description: "Does it have rabies?",
+	description: "它有狂犬病吗?",
 	text: [
-		"The Bat in a Bucket will cause nearby mobs to show through walls with a white outline for a short time; when you release him that is.",
+		"蝙蝠桶可使附近的生物在短时间内穿过墙壁显示白色轮廓;在你释放他的时候。",
 		"",
-		"Good luck getting him back inside everytime you want your Bat friendo to be useful.",
+		"祝你每次想让你的蝙蝠朋友派上用场的时候都能把他弄回来。",
 		"",
-		"He's actually kinda useful by the way."
+		"顺便说一句，他还挺有用的。"
 	],
 	tasks: [{
 		uid: "4441175d",
