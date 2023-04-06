@@ -1,12 +1,12 @@
 {
-	title: "Treasure in the Slime!",
+	title: "黏液中的宝藏!",
 	x: -27.0d,
 	y: -6.75d,
-	description: "It's a goop detector",
+	description: "这是一个粘液探测器",
 	text: [
-		"All you need to do is have it in your inventory!",
+		"你要做的就是把它放在你的物品栏中!",
 		"",
-		"When you enter a chunk that spawns Slimes, the device will beep, and turn green."
+		"当你进入一个生成史莱姆的区块时，会发出哔哔声，并变成绿色。"
 	],
 	size: 1.5d,
 	tasks: [{
