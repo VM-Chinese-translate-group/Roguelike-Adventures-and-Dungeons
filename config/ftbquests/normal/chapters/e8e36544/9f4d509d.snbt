@@ -1,5 +1,5 @@
 {
-	title: "Chapter Overview",
+	title: "概述章",
 	icon: {
 		id: "cyclicmagic:ender_eye_orb",
 		tag: {
@@ -13,11 +13,11 @@
 	},
 	x: -8.75d,
 	y: 3.5d,
-	description: "Yes, I know it's messy right now... It'll get better... maybe.",
+	description: "是的，我知道现在很乱……一切都会好起来的……也许吧。",
 	text: [
-		"Just kidding! We have finally organized this chapter.",
+		"只是开个玩笑!我们终于组织好了这一章。",
 		"",
-		"The mods in this chapter are:",
+		"本章中的mod是:",
 		"-Cyclic",
 		"-Open Blocks",
 		"-Random Things",
