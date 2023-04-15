@@ -1,10 +1,10 @@
 {
-	title: "Like a Dustmite, but Evil",
+	title: "像尘蟎一样，但很邪恶",
 	x: -32.96428571428572d,
 	y: 4.839285714285715d,
-	description: "Why is it so dry?",
+	description: "为什么这么干燥?",
 	text: [
-		"Right-Clicking with Endermite Powder in the End will help you locate an End City."
+		"在末地右键单击末影螨之尘将帮助您找到末地城。"
 	],
 	size: 1.5d,
 	tasks: [{
