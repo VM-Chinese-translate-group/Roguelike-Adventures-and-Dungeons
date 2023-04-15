@@ -11,7 +11,7 @@ CurseForge|Modpack Version|Status
 # 鸣谢
 
 # 仓库统计数据
-  ![Alt]()
+  ![Alt](https://repobeats.axiom.co/api/embed/18cec06c8ae62c00ef0b2667c0bb1828af1627c8.svg "Repobeats analytics image")
 
 # 关于我们
   [![Website](https://shields.io/website?up_message=vmct-cn.top&url=http://vmct-cn.top&label=Website)](http://vmct-cn.top)

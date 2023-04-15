@@ -1,16 +1,16 @@
 {
-	title: "Insulated Walls",
+	title: "隔音墙",
 	x: 7.5d,
 	y: -8.0d,
-	description: "This should have been in vanilla",
+	description: "这应该是原版的",
 	text: [
-		"This block will reduce noise in a 6x6x6 area by a substantial amount.",
+		"该区块将减少在6x6x6区域内的大量噪音。",
 		"",
-		"The effect can be stacked with multiple blocks.",
+		"效果可以叠加。",
 		"",
-		"Reduces ALL noise including footstep sounds.",
+		"减少所有噪音，包括脚步声。",
 		"",
-		"Useful around your farms, if you hate animal noises."
+		"如果你讨厌动物的声音，在你的农场附近很有用。"
 	],
 	tasks: [{
 		uid: "9d915580",

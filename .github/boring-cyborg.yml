@@ -19,6 +19,15 @@ labelPRBasedOnFilePath:
     - "resourcepacks/**"
     - "resources/**"
     - "kubejs/assets/**"
+    
+  1.52:
+    - "config/**"
+    - ".github/**"
+    - "kubejs/**"
+    - "script/**"
+    - "resourcepacks/**"
+    - "resources/**"
+    - "kubejs/assets/**"
 
   # Complex: Add 'area/core' label to any change within the 'core' package
   ftbquest:
