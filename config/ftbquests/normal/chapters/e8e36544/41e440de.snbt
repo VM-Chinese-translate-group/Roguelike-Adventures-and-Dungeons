@@ -1,12 +1,12 @@
 {
-	title: "Back to the... Present?",
+	title: "回到……现在?",
 	x: -35.21428571428572d,
 	y: 3.0892857142857224d,
-	description: "We didn't go anywhere?",
+	description: "我们哪儿也没去?",
 	text: [
-		"In time, no. In space, yes.",
+		"在时间上，no。在空间上，yes。",
 		"",
-		"This item can be bound to a location by Right-Clicking. When it is Right-Clicked again, it will be used, and teleport you to the bound location."
+		"可以通过右键点击将此物品绑定到某个位置。 再次右击使用，将您传送到绑定的位置。"
 	],
 	tasks: [{
 		uid: "eeb31e3e",

@@ -1,13 +1,13 @@
 {
-	title: "Hold Less and More at the Same Time",
+	title: "拥有很少的同时又很多",
 	x: -30.0d,
 	y: 12.5d,
-	description: "Hard to wrap my head around...",
+	description: "我很难理解……",
 	text: [
-		"/Dank/Nulls hold more of a specific item, but less variety of items.",
+		"/Dank/Nulls 存更多特定的物品，但较少种类的物品。",
 		"",
-		" For example, the red /dank/null has 9 slots, but holds 128 items per slot instead of the traditional 64.",
-		"To access your /dank/null, you need to shift right click the ground. You can also place items directly out of the /dank/null as well by placing the /dank/null like a regular block."
+		" 例如，红/dank/null有9个槽，但每个槽容纳128个物品，而不是64个。",
+		"要看你的/dank/null，你需要右键地面。 你也可以把物品直接放在/dank/null中，也可以把/dank/null放在像普通方块块一样放置。"
 	],
 	dependencies: [
 		"1318684c"

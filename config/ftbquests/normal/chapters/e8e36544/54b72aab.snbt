@@ -1,14 +1,14 @@
 {
-	title: "Look What I Can Buy with My Union Money",
+	title: "看看我能用工会的钱买什么",
 	x: -26.5d,
 	y: -3.5d,
-	description: "All this crazy crap I really don't need...",
+	description: "所有这些废话我不多说……",
 	text: [
-		"In Survival mode, the Enhanced Building Guide not only displays ghost blocks to make building easier, but also allows the placing of actual blocks by right clicking with any block.",
+		"在生存模式中，强化建筑指导仪不仅可以显示让建筑更容易的幽灵方块，，还可以右键点击任何方块来放置实际的方块。",
 		"",
-		"This block works the same as the other one. Follow those instructions. This one simply has a neat block placement feature so you don't have to place blocks yourself.",
+		"这方块和另一方块工作原理一样。按照这些说明去做。这有一个简单的方块放置功能，你可以不用亲自放置方块。",
 		"",
-		"Invest btw... invest early."
+		"顺便说一句……越早做越好。"
 	],
 	tasks: [{
 		uid: "c04023a2",
