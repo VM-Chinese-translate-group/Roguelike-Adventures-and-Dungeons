@@ -1,12 +1,12 @@
 {
-	title: "Night Light",
+	title: "夜灯",
 	x: -15.0d,
 	y: 12.5d,
-	description: "Keeps the fear away",
+	description: "让恐惧远离",
 	text: [
-		"The Blaze Lantern is not a compressed storage method, since you cannot revert this process back to Blaze Rods, or Powder.",
+		"烈焰灯不是一种压缩存储的方法，因为这个过程不能还原回火焰棒或粉末。",
 		"",
-		"This block will stay lit on fire forever!"
+		"这个方块将永远燃烧下去!"
 	],
 	tasks: [{
 		uid: "13b0ea86",
