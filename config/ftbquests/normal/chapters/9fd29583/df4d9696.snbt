@@ -2,7 +2,7 @@
 	title: "虫子克星",
 	x: 3.0d,
 	y: -6.0d,
-	description: "我想要它们死!",
+	description: "我想要它们死！",
 	text: [
 		"收集所有普通虫子和稀有虫子的掉落物。"
 	],
