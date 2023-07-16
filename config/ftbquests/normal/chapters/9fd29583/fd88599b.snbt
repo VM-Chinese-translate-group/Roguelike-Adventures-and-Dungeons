@@ -16,7 +16,7 @@
 	tasks: [{
 		uid: "6257a700",
 		type: "item",
-		title: "Any vanilla leaves",
+		title: "任意树叶",
 		items: [{
 			item: "minecraft:leaves"
 		},
