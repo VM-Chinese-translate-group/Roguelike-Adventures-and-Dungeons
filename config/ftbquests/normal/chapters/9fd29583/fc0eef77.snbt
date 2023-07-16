@@ -2,7 +2,7 @@
 	title: "苍蝇人!",
 	x: 3.0d,
 	y: -2.5d,
-	description: "你的超能力是呕吐。",
+	description: "你的超能力是令人呕吐。",
 	text: [
 		"合成强化复眼护目镜。"
 	],
