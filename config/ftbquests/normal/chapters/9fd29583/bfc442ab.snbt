@@ -4,7 +4,7 @@
 	y: -14.0d,
 	description: "它能做你需要它做的事情。",
 	text: [
-		"合成基础的竹子管道。"
+		"合成基础的竹管道。"
 	],
 	dependencies: [
 		"d93ec9a8"
