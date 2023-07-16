@@ -4,7 +4,7 @@
 	y: -4.5d,
 	description: "但不像死亡……",
 	text: [
-		"闻起来像死的虫子的气味?"
+		"闻起来像死的虫子的气味？"
 	],
 	dependencies: [
 		"d7ca76bc"
