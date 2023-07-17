@@ -44,7 +44,7 @@ tile.aura_engine.name=灵力引擎
 # Descriptions
 
 desc.gear.name=可以装载在齿轮箱上
-desc.gear.max.name=最大能量: @power
+desc.gear.max.name=最大能量：@power
 desc.gear.transfer.name=能量传输：@transferx
 desc.attachment.name=可以作为转向塔配件
 desc.turret_skin.name=可以用于更换转向塔外观
