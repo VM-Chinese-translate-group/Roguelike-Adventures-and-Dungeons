@@ -55,7 +55,7 @@ desc.gearanium.name=你让我刚好转了一圈
 # On screen tooltips
 
 mystgears.tooltip.mechdial.mech=机械能：%s
-mystgears.tooltip.mechdial.mech_input=§9⬊§r 机械能: %s
+mystgears.tooltip.mechdial.mech_input=§9⬊§r 机械能：%s
 mystgears.tooltip.mechdial.mech_output=§6⬉§r 机械能: %s
 mystgears.tooltip.turret.ride=右击以驾驶
 mystgears.tooltip.turret.add_attachment=手持配件右键以更换
