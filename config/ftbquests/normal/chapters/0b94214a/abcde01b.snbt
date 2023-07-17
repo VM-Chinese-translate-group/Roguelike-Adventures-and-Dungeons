@@ -3,7 +3,7 @@
 	y: 4.0d,
 	description: "COCK-A-DOODLE-DOO MOTHA#%#%KA",
 	text: [
-		"Obtain a Chicken Chunk."
+		"获得一块鸡灵魂碎片，"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
