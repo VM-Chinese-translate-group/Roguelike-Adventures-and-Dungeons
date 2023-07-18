@@ -2,7 +2,7 @@
 在线表格链接:https://docs.qq.com/sheet/DU3VhUURtY2tLdWJO?tab=BB08J2
 部分模组是有汉化，但是不全，可自行查i18n汉化材质包对比，以及部分模组有被整合包作者改模组语言文件
 ftb指南是需要汉化readme.md文件
-# 以后第一次发布汉化不用管，如果有第二次发布记得在config/vmtranslationupdate.cfg改一下版本号
+## 以后第一次发布汉化不用管，如果有第二次发布记得在config/vmtranslationupdate.cfg改一下版本号
 # RAD 汉化补丁
 CurseForge|Modpack Version|Status
 :-|:-|:-
