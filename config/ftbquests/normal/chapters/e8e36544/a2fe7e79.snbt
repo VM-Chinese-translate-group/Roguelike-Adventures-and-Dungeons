@@ -2,7 +2,7 @@
 	title: "只是需要更多的boss……",
 	x: -1.5d,
 	y: 9.5d,
-	description: "14或者更小的",
+	description: "14只或更小规模",
 	text: [
 		"平台是可以穿过的特殊地板。",
 		"",
