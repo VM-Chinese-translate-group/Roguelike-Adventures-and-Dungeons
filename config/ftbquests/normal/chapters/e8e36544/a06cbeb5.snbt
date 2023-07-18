@@ -4,7 +4,7 @@
 	y: -7.0d,
 	description: "AHHHHHHHH AHHHHHHH",
 	text: [
-		"自动剪羊毛，不需要红石。"
+		"自动剪羊毛，不需要红石信号。"
 	],
 	tasks: [{
 		uid: "f2870e3c",
