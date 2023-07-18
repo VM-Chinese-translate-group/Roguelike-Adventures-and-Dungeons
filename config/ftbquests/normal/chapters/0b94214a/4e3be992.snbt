@@ -1,7 +1,7 @@
 {
 	x: -6.5d,
 	y: -10.0d,
-	description: "种木头... 呵呵",
+	description: "种木头…… 呵呵",
 	text: [
 		"制作一些木种子。"
 	],
