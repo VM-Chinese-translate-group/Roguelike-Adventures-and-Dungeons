@@ -4,7 +4,7 @@
 	y: 4.0d,
 	description: "不是。这是血。",
 	text: [
-		"用于龙锻炉！"
+		"用于龙钢锻炉！"
 	],
 	dependencies: [
 		"ecbc2d9f"
