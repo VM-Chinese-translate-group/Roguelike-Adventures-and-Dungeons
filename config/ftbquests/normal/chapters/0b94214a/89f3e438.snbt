@@ -3,7 +3,7 @@
 	y: -9.0d,
 	description: "我想让你身上挂点彩",
 	text: [
-		"制作一些死种子，我的意思是死种子，死种子。"
+		"制作点能让你挂彩的种子，我的意思是挂点彩。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
