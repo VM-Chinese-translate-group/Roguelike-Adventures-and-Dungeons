@@ -1,7 +1,7 @@
 {
 	x: 0.5d,
 	y: -9.0d,
-	description: "石英柜台好贵",
+	description: "石英台面好贵",
 	text: [
 		"制作一些下界石英种子。"
 	],
