@@ -2,7 +2,7 @@
 	title: "谁在那里？",
 	x: 4.0d,
 	y: -5.5d,
-	description: "展示你自己!",
+	description: "展示你自己！",
 	text: [
 		"我知道你在那里！",
 		"",
