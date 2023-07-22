@@ -1,6 +1,6 @@
 {
-	"title": "Computer Level 1 - Low",
-	"description": "Settings for a computer that has just crawled out of the primordial ooze",
+	"title": "1级计算机-低",
+	"description": "刚刚从原始淤泥中爬出来的计算机配置",
 	"restartRequired": true,
 	"data": {
 		"minecraft": {

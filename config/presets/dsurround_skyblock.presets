@@ -1,6 +1,6 @@
 {
-	"title": "SkyBlock Maps",
-	"description": "Configuration tweaks for SkyBlock style modpacks; turns off options that do not make sense",
+	"title": "空岛地图",
+	"description": "空岛风格整合包的配置调整；关闭没有意义的选项",
 	"restartRequired": false,
 	"data": {
 		"minecraft": {

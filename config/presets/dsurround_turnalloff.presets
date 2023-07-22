@@ -1,6 +1,6 @@
 {
-	"title": "Turn off ALL Dynamic Surroundings options",
-	"description": "Turns off ALL Dynamic Surroundings Options.  Desired features will have to be individually enabled.  Make sure you save your existing configuration before applying!",
+	"title": "关闭所有动态环境选项",
+	"description": "关闭所有动态环境选项。所需的功能必须单独启用。请确保在应用之前保存现有配置！",
 	"restartRequired": true,
 	"data": {
 		"dsurround": {

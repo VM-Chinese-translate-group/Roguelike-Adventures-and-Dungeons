@@ -1,6 +1,6 @@
 {
-	"title": "Computer Level 0 - Potato",
-	"description": "Settings for a computer that is no better than a potato",
+	"title": "0级计算机-土豆",
+	"description": "电脑配置不比土豆好多少",
 	"restartRequired": true,
 	"data": {
 		"minecraft": {

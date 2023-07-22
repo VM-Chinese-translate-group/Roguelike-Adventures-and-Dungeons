@@ -1,6 +1,6 @@
 {
-	"title": "Computer Level 3 - High",
-	"description": "Settings for a computer that is considered a T-Rex of desktop computation",
+	"title": "3级计算机-高",
+	"description": "这被认为是桌面端计算机中的霸王龙",
 	"restartRequired": true,
 	"data": {
 		"minecraft": {
