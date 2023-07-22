@@ -14,7 +14,7 @@
 		uid: "298f7bc1",
 		type: "item",
 		items: [{
-			item: "cyclicmagic:soulstone"//灵魂石
+			item: "cyclicmagic:soulstone"
 		}],
 		ignore_damage: true,
 		ignore_nbt: 1b
