@@ -2,7 +2,7 @@
 	title: "逃脱！",
 	x: 9.5d,
 	y: 12.5d,
-	description: "P. Sherman 42 Wallaby Way, Sydney(悉尼歌剧院地址)",
+	description: "P. Sherman 42 Wallaby Way, Sydney（悉尼歌剧院地址）",
 	text: [
 		"逃生绳可以让你从洞穴中逃生！",
 		"",
