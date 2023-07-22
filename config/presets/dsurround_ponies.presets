@@ -1,6 +1,6 @@
 {
-	"title": "Reveal your inner Pony!",
-	"description": "Configure Footprint options to be a Pony",
+	"title": "展示你内心的小马！",
+	"description": "将脚印选项配置为Pony",
 	"restartRequired": true,
 	"data": {
 		"dsurround": {

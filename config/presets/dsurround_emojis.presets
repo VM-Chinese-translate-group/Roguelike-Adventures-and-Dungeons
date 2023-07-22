@@ -1,6 +1,6 @@
 {
-	"title": "Turn on Emojis!",
-	"description": "Turn on options related to emojis, villager chat, and player speech",
+	"title": "打开表情！",
+	"description": "打开与表情符号、村民聊天和玩家演讲相关的选项",
 	"restartRequired": true,
 	"data": {
 		"dsurround": {
