@@ -3,7 +3,7 @@
 	icon: "randomthings:redstoneobserver",
 	x: 3.0d,
 	y: 5.0d,
-	description: "所以是凝视比赛？	",
+	description: "所以是凝视比赛？",
 	text: [
 		"当所链接的方块发出红石信号时，红石观测仪将发出红石信号。",
 		"",
