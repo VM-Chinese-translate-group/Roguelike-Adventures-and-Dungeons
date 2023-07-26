@@ -4,10 +4,9 @@
 	y: 0.0d,
 	description: "带上你的飞艇，小心点龙！",
 	text: [
-		"进入伊卡利亚前，必须先进入下界。在那里，必须获得大量石英才能建造传送门。然后，玩家需要在阴间找到红色的火法复仇者，杀死他们以获得",
-		"obtain greek fire grenades.",
+		"进入伊卡利亚前，必须先进入地狱。必须在那里获得大量石英才能建造传送门。然后，玩家需要在地狱找到红色的亡魂烈焰术士，杀死他们以获得希腊火榴弹。",
 		"",
-		"Once constructed, the portal can be activated with a greek fire grenade."
+		"传送门建成后，可以用希腊火榴弹激活。"
 	],
 	dependencies: [
 		"9373438b"
