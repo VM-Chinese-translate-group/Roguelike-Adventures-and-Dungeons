@@ -1,13 +1,12 @@
 {
-	title: "Lands of Icaria",
+	title: "伊卡利亚大陆",
 	x: 1.5d,
 	y: 0.0d,
-	description: "Bring your airship and beware of dragons!",
+	description: "带上你的飞艇，小心点龙！",
 	text: [
-		"To enter Icaria, one must first make their way into the nether. There, a considerable quantity of Quartz must be obtained in order to construct a portal. Then the player needs to go find red pyromancer revenants in the nether and kill them to obtain ",
-		"obtain greek fire grenades.",
+		"进入伊卡利亚前，必须先进入地狱。必须在那里获得大量石英才能建造传送门。然后，玩家需要在地狱找到红色的亡魂烈焰术士，杀死他们以获得希腊火榴弹。",
 		"",
-		"Once constructed, the portal can be activated with a greek fire grenade."
+		"传送门建成后，可以用希腊火榴弹激活。"
 	],
 	dependencies: [
 		"9373438b"
