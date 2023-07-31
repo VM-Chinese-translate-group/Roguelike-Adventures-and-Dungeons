@@ -4,7 +4,7 @@
 	y: 1.5d,
 	description: "我恨牙医",
 	text: [
-		"哇哦哦…… 齿晶石……"
+		"哇哦哦……木晶……"
 	],
 	dependencies: [
 		"5805bceb"
