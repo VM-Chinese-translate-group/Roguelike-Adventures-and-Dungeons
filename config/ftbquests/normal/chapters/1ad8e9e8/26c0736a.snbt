@@ -2,7 +2,7 @@
 	title: "这是我的沼泽!",
 	x: -9.0d,
 	y: -0.5d,
-	description: "滚出去!",
+	description: "滚出去！",
 	text: [
 		"获得一个沼泽护身符。",
 		"",
