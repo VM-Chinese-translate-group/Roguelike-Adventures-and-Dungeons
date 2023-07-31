@@ -6,7 +6,7 @@
 	text: [
 		"获得污泥长矛。",
 		"",
-		"这个物品会立即杀死任何接触到的污泥。"
+		"这个物品会立即杀死任何接触到的烂泥怪。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
