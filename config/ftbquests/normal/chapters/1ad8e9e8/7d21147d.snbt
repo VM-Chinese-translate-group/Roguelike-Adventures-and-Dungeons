@@ -2,7 +2,7 @@
 	title: "第二代巫毒面具",
 	x: -12.5d,
 	y: 6.0d,
-	description: "你在害怕吗?",
+	description: "你在害怕吗？",
 	text: [
 		"你应该是!",
 		"",
