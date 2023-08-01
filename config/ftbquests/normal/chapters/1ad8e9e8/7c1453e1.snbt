@@ -2,7 +2,7 @@
 	title: "迅捷镐",
 	x: -11.5d,
 	y: 2.5d,
-	description: "它怎么这么快?",
+	description: "它怎么这么快？",
 	text: [
 		"获得迅捷镐。"
 	],
