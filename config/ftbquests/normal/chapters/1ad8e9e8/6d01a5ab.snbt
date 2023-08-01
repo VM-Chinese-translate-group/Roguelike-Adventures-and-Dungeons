@@ -2,7 +2,7 @@
 	title: "活气满满的孢子",
 	x: 3.0d,
 	y: -1.5d,
-	description: "它们正处于活性中!",
+	description: "它们正处于活性中！",
 	text: [
 		"获得可活化的孢子。"
 	],
