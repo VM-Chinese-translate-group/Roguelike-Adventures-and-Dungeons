@@ -2,7 +2,7 @@
 	title: "闪闪发光！",
 	x: 8.0d,
 	y: -3.0d,
-	description: "像是钻石!",
+	description: "像是钻石！",
 	text: [
 		"从交错次元中获得一颗宝石。",
 		"",
