@@ -2,7 +2,7 @@
 	title: "杂草木装备",
 	x: -1.0d,
 	y: 1.5d,
-	description: "一根棍子? 就这些吗?",
+	description: "一根棍子？就这些吗？",
 	text: [
 		"合成所有的杂草木工具。"
 	],
