@@ -6,7 +6,7 @@
 	text: [
 		"合成活木盾。",
 		"",
-		"它会向附近的怪物发射凝胶液。"
+		"它会向附近的怪物发射凝胶球。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
