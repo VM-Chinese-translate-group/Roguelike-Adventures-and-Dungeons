@@ -1,5 +1,5 @@
 {
-	title: "Feats of Strength",
+	title: "成就",
 	icon: "minecraft:writable_book",
 	always_invisible: false,
 	group: 0,

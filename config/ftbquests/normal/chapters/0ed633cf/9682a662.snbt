@@ -1,12 +1,12 @@
 {
-	title: "Player Slayer III",
+	title: "玩家杀手III",
 	icon: "minecraft:skull 1 3",
 	x: 0.5d,
 	y: -5.5d,
 	tasks: [{
 		uid: "bcbbee4b",
 		type: "stat",
-		title: "Slay 250 Players",
+		title: "击杀250次玩家",
 		stat: "stat.playerKills",
 		value: 250
 	}]

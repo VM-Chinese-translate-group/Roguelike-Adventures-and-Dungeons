@@ -1,12 +1,12 @@
 {
-	title: "Fisherman's Man's Man I",
+	title: "钓鱼佬I",
 	icon: "minecraft:fishing_rod",
 	x: -1.0d,
 	y: -3.5d,
 	tasks: [{
 		uid: "3805b2d5",
 		type: "stat",
-		title: "Catch 100 Fish",
+		title: "抓到100条鱼",
 		stat: "stat.fishCaught",
 		value: 100
 	}]

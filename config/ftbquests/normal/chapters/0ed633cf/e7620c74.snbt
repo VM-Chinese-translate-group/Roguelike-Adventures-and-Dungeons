@@ -1,16 +1,16 @@
 {
-	title: "Of Fire And Ice",
+	title: "冰与火之歌",
 	x: -9.0d,
 	y: -7.5d,
 	text: [
-		"Slaying 1,000 dragons is no easy feat.",
+		"屠一千条龙绝非易事。",
 		"",
-		"You will be properly rewarded."
+		"你会被好好奖励的。"
 	],
 	tasks: [{
 		uid: "9bb8773f",
 		type: "kill",
-		title: "Slay 500 Fire Dragons",
+		title: "击杀500条火龙",
 		icon: "iceandfire:dragon_skull",
 		entity: "iceandfire:firedragon",
 		value: 500L
@@ -18,7 +18,7 @@
 	{
 		uid: "c82d4217",
 		type: "kill",
-		title: "Slay 500 Ice Dragons",
+		title: "击杀500条冰龙",
 		icon: "iceandfire:dragon_skull 1 1",
 		entity: "iceandfire:icedragon",
 		value: 500L

@@ -5,7 +5,7 @@
 	tasks: [{
 		uid: "f2fffdab",
 		type: "stat",
-		title: "Enchant 10 Items",
+		title: "附魔10个物品",
 		stat: "stat.itemEnchanted",
 		value: 10
 	}]
