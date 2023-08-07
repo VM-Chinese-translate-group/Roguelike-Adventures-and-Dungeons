@@ -1,16 +1,16 @@
 {
-	title: "Hercules Who?",
+	title: "谁是大力士？",
 	x: -9.0d,
 	y: -6.5d,
 	text: [
-		"Never heard of him.",
+		"未曾听闻他。",
 		"",
-		"Slay 50 Hydras."
+		"杀了50只九头蛇。"
 	],
 	tasks: [{
 		uid: "a9fbee17",
 		type: "kill",
-		title: "Slay 50 Hydras",
+		title: "击杀50只九头蛇",
 		entity: "iceandfire:if_hydra",
 		value: 50L
 	}]

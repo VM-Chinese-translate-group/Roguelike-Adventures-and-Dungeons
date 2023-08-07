@@ -5,7 +5,7 @@
 	tasks: [{
 		uid: "e96bbfa5",
 		type: "stat",
-		title: "Trade With Villagers 5,000 Times",
+		title: "与村民交易5000次",
 		stat: "stat.tradedWithVillager",
 		value: 5000
 	}]

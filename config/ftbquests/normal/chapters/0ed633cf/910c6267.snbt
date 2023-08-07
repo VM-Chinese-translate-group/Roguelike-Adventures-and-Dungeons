@@ -5,7 +5,7 @@
 	tasks: [{
 		uid: "7a5e13a1",
 		type: "stat",
-		title: "Complete 100 Bounties",
+		title: "完成100个悬赏令",
 		stat: "stat.bountiesCompleted",
 		value: 100
 	}]

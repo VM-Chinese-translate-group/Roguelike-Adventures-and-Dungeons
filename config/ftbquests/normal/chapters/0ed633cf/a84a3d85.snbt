@@ -1,11 +1,11 @@
 {
-	title: "Creature Killer III",
+	title: "生物杀手III",
 	x: -2.5d,
 	y: -5.5d,
 	tasks: [{
 		uid: "a59db083",
 		type: "stat",
-		title: "Kill 10,000 Creatures",
+		title: "击杀10000只生物",
 		stat: "stat.mobKills",
 		value: 10000
 	}]
