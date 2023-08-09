@@ -3,7 +3,7 @@
 	icon: "minecraft:bone",
 	x: -10.0d,
 	y: -2.0d,
-	description: "你真的在屠杀很多生物...",
+	description: "你真的在屠杀很多生物……",
 	text: [
 		"击杀50000只生物。"
 	],
