@@ -3,7 +3,7 @@
 	icon: "dungeontactics:candy_skull",
 	x: -16.0d,
 	y: -2.0d,
-	description: "他们正在敲你的门...",
+	description: "它们正在敲你的门……",
 	text: [
 		"存活21天。"
 	],
