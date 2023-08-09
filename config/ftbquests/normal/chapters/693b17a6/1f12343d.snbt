@@ -5,12 +5,12 @@
 	y: 0.0d,
 	description: "继续杀戮！",
 	text: [
-		"击杀5，000个生物"
+		"击杀5000个生物"
 	],
 	tasks: [{
 		uid: "e54042d4",
 		type: "stat",
-		title: "击杀5，000个生物",
+		title: "击杀5000个生物",
 		icon: "minecraft:bone",
 		stat: "stat.mobKills",
 		value: 5000
