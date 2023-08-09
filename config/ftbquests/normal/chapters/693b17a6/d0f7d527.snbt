@@ -6,12 +6,12 @@
 	text: [
 		"你做了什么？",
 		"",
-		"附魔25，000个物品。"
+		"附魔25000个物品。"
 	],
 	tasks: [{
 		uid: "38d59065",
 		type: "stat",
-		title: "附魔25，000个物品",
+		title: "附魔25000个物品",
 		icon: "minecraft:enchanting_table",
 		stat: "stat.itemEnchanted",
 		value: 25000
