@@ -5,7 +5,7 @@
 	tasks: [{
 		uid: "2aba1a4a",
 		type: "stat",
-		title: "击杀100000只生物",
+		title: "击杀10w只生物",
 		stat: "stat.mobKills",
 		value: 100000
 	}]
