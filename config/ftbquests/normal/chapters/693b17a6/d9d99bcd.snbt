@@ -2,7 +2,7 @@
 	title: "指路石旅行者 I",
 	x: -14.5d,
 	y: 1.0d,
-	description: "这是一块石头...",
+	description: "这是一块石头……",
 	text: [
 		"激活10个不同的指路石。"
 	],
