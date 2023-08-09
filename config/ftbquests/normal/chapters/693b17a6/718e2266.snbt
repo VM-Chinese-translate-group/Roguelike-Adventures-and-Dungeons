@@ -4,12 +4,12 @@
 	y: -2.0d,
 	description: "这些像素无法阻止你",
 	text: [
-		"造成1，000，000伤害。"
+		"造成100w点伤害。"
 	],
 	tasks: [{
 		uid: "96bf8d49",
 		type: "stat",
-		title: "造成1，000，000伤害",
+		title: "造成100w点伤害",
 		stat: "stat.damageDealt",
 		value: 1000000
 	}],
