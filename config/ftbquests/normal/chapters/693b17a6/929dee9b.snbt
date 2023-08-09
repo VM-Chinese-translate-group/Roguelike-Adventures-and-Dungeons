@@ -4,7 +4,7 @@
 	y: -2.0d,
 	description: "都没了？",
 	text: [
-		"吃掉2，500片蛋糕。"
+		"吃掉2500片蛋糕。"
 	],
 	tasks: [{
 		uid: "4e4ee9cd",
