@@ -5,12 +5,12 @@
 	y: -3.0d,
 	description: "当你走在他们的路上时，生物们会消失。",
 	text: [
-		"击杀100000只生物。"
+		"击杀10w只生物。"
 	],
 	tasks: [{
 		uid: "47199300",
 		type: "stat",
-		title: "击杀100000只生物",
+		title: "击杀10w只生物",
 		icon: "minecraft:bone",
 		stat: "stat.mobKills",
 		value: 100000
