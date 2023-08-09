@@ -1,15 +1,15 @@
 {
-	title: "渔夫，但实力中的实力 IV",
+	title: "钓鱼佬IV",
 	x: -7.0d,
 	y: -2.0d,
 	description: "还有什么要抓的吗？",
 	text: [
-		"捕获50，000只鱼。"
+		"捕获50000条鱼。"
 	],
 	tasks: [{
 		uid: "ce4eb73e",
 		type: "stat",
-		title: "捕获50，000只鱼",
+		title: "捕获50000条鱼",
 		icon: "minecraft:fishing_rod",
 		stat: "stat.fishCaught",
 		value: 50000
