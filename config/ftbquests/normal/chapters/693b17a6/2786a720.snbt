@@ -5,12 +5,12 @@
 	y: -2.0d,
 	description: "你真的在屠杀很多生物...",
 	text: [
-		"击杀50，000只生物。"
+		"击杀50000只生物。"
 	],
 	tasks: [{
 		uid: "cf74782f",
 		type: "stat",
-		title: "击杀50，000只生物",
+		title: "击杀50000只生物",
 		icon: "minecraft:bone",
 		stat: "stat.mobKills",
 		value: 50000
