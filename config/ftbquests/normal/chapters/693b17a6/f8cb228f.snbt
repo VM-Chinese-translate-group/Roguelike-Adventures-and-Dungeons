@@ -9,7 +9,7 @@
 	tasks: [{
 		uid: "1a334309",
 		type: "stat",
-		title: "捕获1，000只鱼",
+		title: "捕获1000条鱼",
 		icon: "minecraft:fishing_rod",
 		stat: "stat.fishCaught",
 		value: 1000
