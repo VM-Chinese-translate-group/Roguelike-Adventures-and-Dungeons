@@ -4,12 +4,12 @@
 	y: -2.0d,
 	description: "我用小麦换了一颗下界之星。",
 	text: [
-		"完成5000次交易。"
+		"完成任何交易5000次。"
 	],
 	tasks: [{
 		uid: "f8d28e74",
 		type: "stat",
-		title: "完成任何交易5000次",
+		title: "完成5000次交易",
 		icon: "minecraft:book",
 		stat: "stat.tradedWithVillager",
 		value: 5000
