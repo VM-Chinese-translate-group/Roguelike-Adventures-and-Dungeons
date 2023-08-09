@@ -9,7 +9,7 @@
 	tasks: [{
 		uid: "c85f320c",
 		type: "stat",
-		title: "完成2，500次交易",
+		title: "完成2500次交易",
 		icon: "minecraft:book",
 		stat: "stat.tradedWithVillager",
 		value: 2500
