@@ -7,12 +7,12 @@
 	text: [
 		"开玩笑，他们又长回来了。",
 		"",
-		"击杀1，000个巨噬叶"
+		"击杀1000个巨噬叶"
 	],
 	tasks: [{
 		uid: "0f1f2ed5",
 		type: "kill",
-		title: "砍倒1，000个巨噬叶",
+		title: "砍倒1000个巨噬叶",
 		icon: {
 			id: "mowziesmobs:spawn_egg",
 			tag: {
