@@ -4,12 +4,12 @@
 	y: -2.0d,
 	description: "我需要更多的青金石！",
 	text: [
-		"附魔10，000件物品"
+		"附魔10000件物品"
 	],
 	tasks: [{
 		uid: "be31ccc9",
 		type: "stat",
-		title: "附魔10，000件物品",
+		title: "附魔10000件物品",
 		icon: "minecraft:enchanting_table",
 		stat: "stat.itemEnchanted",
 		value: 10000
