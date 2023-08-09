@@ -5,12 +5,12 @@
 	y: 1.0d,
 	description: "把那些怪物处理好！",
 	text: [
-		"击杀1，000只生物。"
+		"击杀1000只生物。"
 	],
 	tasks: [{
 		uid: "4d6fd0fe",
 		type: "stat",
-		title: "击杀1，000只生物",
+		title: "击杀1000只生物",
 		icon: "minecraft:bone",
 		stat: "stat.mobKills",
 		value: 1000
