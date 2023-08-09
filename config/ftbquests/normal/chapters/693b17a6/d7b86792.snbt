@@ -10,42 +10,42 @@
 	tasks: [{
 		uid: "ba82f639",
 		type: "kill",
-		title: "击杀100悚怖尸奴",
+		title: "击杀100只悚怖尸奴",
 		entity: "iceandfire:dread_thrall",
 		value: 100L
 	},
 	{
 		uid: "fd9a02db",
 		type: "kill",
-		title: "击杀100悚怖食尸鬼",
+		title: "击杀100只悚怖食尸鬼",
 		entity: "iceandfire:dread_ghoul",
 		value: 100L
 	},
 	{
 		uid: "11a79e9d",
 		type: "kill",
-		title: "击杀200悚怖尸兽",
+		title: "击杀200只悚怖尸兽",
 		entity: "iceandfire:dread_beast",
 		value: 200L
 	},
 	{
 		uid: "b9a8cfa7",
 		type: "kill",
-		title: "击杀300悚怖幼蛛",
+		title: "击杀300只悚怖幼蛛",
 		entity: "iceandfire:dread_scuttler",
 		value: 300L
 	},
 	{
 		uid: "0e643ff0",
 		type: "kill",
-		title: "击杀75悚怖尸骑",
+		title: "击杀75只悚怖尸骑",
 		entity: "iceandfire:dread_knight",
 		value: 75L
 	},
 	{
 		uid: "f00ffd61",
 		type: "kill",
-		title: "击杀25悚怖尸巫",
+		title: "击杀25只悚怖尸巫",
 		entity: "iceandfire:dread_lich",
 		value: 25L
 	}],
