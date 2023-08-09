@@ -1,15 +1,15 @@
 {
-	title: "渔夫，但实力中的实力 III",
+	title: "钓鱼佬III",
 	x: -7.0d,
 	y: -1.0d,
-	description: "这次你抓住了浮木，但你现在有很多经验了！",
+	description: "这次你钓到了浮木，但你现在有很多经验了！",
 	text: [
-		"捕获25，000只鱼."
+		"捕获25000条鱼."
 	],
 	tasks: [{
 		uid: "8f9702bd",
 		type: "stat",
-		title: "捕获25，000只鱼",
+		title: "捕获25000条鱼",
 		icon: "minecraft:fishing_rod",
 		stat: "stat.fishCaught",
 		value: 25000
