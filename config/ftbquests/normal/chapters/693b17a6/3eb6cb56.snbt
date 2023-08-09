@@ -9,7 +9,7 @@
 	tasks: [{
 		uid: "37dcec16",
 		type: "stat",
-		title: "共计完成1，000件悬赏",
+		title: "共计完成1000件悬赏",
 		icon: "bountiful:bounty",
 		stat: "stat.bountiesCompleted",
 		value: 1000
