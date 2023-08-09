@@ -9,7 +9,7 @@
 	tasks: [{
 		uid: "de1b7a19",
 		type: "stat",
-		title: "附魔5，000个物品",
+		title: "附魔5000个物品",
 		icon: "minecraft:enchanting_table",
 		stat: "stat.itemEnchanted",
 		value: 5000
