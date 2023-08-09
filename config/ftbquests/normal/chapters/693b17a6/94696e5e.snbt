@@ -9,7 +9,7 @@
 	tasks: [{
 		uid: "7b9cb4fe",
 		type: "kill",
-		title: "击杀75鸡蛇",
+		title: "击杀75只鸡蛇",
 		icon: "iceandfire:rotten_egg",
 		entity: "iceandfire:if_cockatrice",
 		value: 75L
