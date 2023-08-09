@@ -3,7 +3,7 @@
 	icon: "embers:golems_eye",
 	x: 4.5d,
 	y: -2.5d,
-	description: "他们吓了你多少次？",
+	description: "它们吓了你多少次？",
 	text: [
 		"击杀1，000个太古魔像"
 	],
