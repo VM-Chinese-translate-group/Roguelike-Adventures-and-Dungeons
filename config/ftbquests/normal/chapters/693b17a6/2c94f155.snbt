@@ -3,7 +3,7 @@
 	icon: "dungeontactics:candy_skull",
 	x: -16.0d,
 	y: -1.0d,
-	description: "她沉默了...不好",
+	description: "她沉默了……不好",
 	text: [
 		"生存14天。"
 	],
