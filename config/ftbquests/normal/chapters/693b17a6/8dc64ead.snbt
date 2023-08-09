@@ -3,7 +3,7 @@
 	icon: "iceandfire:gorgon_head",
 	x: 1.0d,
 	y: 0.0d,
-	description: "你朋友说得对...我最恨她像石头一样",
+	description: "你朋友说得对……我最恨她，像石头一样",
 	text: [
 		"你已经杀了50个蛇发女妖。你是个冷血杀手。"
 	],
