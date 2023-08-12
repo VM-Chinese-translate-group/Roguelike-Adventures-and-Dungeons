@@ -1,7 +1,7 @@
 {
 	x: 3.0d,
 	y: -12.0d,
-	description: "细长的种子",
+	description: "瘦长的种子",
 	text: [
 		"制作一些末影人种子。"
 	],
