@@ -4,7 +4,7 @@
 	y: 18.5d,
 	description: "理想引领着我们，即使被生活所打压。",
 	text: [
-		"人身攻击了属于是"
+		"人身攻击了属于是。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
