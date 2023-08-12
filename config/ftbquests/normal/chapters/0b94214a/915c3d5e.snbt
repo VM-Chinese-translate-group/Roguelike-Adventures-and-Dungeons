@@ -1,7 +1,7 @@
 {
 	x: -3.5d,
 	y: -16.0d,
-	description: "斯莱特大师",
+	description: "板岩大师",
 	text: [
 		"制作一些板岩种子。"
 	],
