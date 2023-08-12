@@ -2,7 +2,7 @@
 	title: "这是什么魔力？",
 	x: -9.0d,
 	y: 7.0d,
-	description: "再也不OOM咯！",
+	description: "用不尽的魔力！",
 	text: [
 		"我相信你的精神现在一定非常好！"
 	],
