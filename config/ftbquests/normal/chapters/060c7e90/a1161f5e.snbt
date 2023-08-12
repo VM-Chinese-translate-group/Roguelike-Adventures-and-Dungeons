@@ -4,7 +4,7 @@
 	y: 17.5d,
 	description: "你，独一无二",
 	text: [
-		"我亲爱的黑巫师"
+		"我亲爱的黑巫师。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
