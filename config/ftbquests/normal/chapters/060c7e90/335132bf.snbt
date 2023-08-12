@@ -7,7 +7,7 @@
 	text: [
 		"他们不能。",
 		"",
-		"80%的纵火案都是石沉大海，销声匿迹。"
+		"80%的纵火案都石沉大海了。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
