@@ -1,7 +1,7 @@
 {
 	x: -3.5d,
 	y: 6.0d,
-	description: "你是个混蛋！",
+	description: "你做咩啊！",
 	text: [
 		"获得一块羊灵魂碎片。"
 	],
