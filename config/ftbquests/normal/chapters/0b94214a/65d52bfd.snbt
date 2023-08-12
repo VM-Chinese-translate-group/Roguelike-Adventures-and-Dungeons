@@ -1,10 +1,10 @@
 {
-	title: "它是死的吗？",
+	title: "它会死掉吗？",
 	x: 7.0d,
 	y: 1.5d,
 	description: "我不知道，伙计，这看起来并不健全",
 	text: [
-		"制作或获得5级基础怪物灵魂碎片"
+		"制作或获得5级基础怪物灵魂碎片。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
