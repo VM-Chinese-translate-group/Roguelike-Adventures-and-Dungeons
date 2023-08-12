@@ -1,9 +1,9 @@
 {
 	x: -0.5d,
 	y: -14.0d,
-	description: "你是如此的粗暴……",
+	description: "你是如此的粗暴（a-brass-ive）……",
 	text: [
-		"制作一些黄铜种子。"
+		"制作一些黄铜（brass）种子。"
 	],
 	hide_dependency_lines: true,
 	dependencies: [
