@@ -4,7 +4,7 @@
 	y: 0.0d,
 	description: "造成那样的伤害！",
 	text: [
-		"造成10w点伤害。"
+		"造成100000点伤害。"
 	],
 	tasks: [{
 		uid: "6c2fed1b",
