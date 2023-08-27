@@ -9,7 +9,7 @@
 	tasks: [{
 		uid: "6c2fed1b",
 		type: "stat",
-		title: "造成10w点伤害",
+		title: "造成100000点伤害",
 		stat: "stat.damageDealt",
 		value: 100000
 	}],
