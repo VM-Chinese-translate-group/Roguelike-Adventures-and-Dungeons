@@ -34,7 +34,7 @@
 	}],
 	loot_crate: {
 		string_id: "erebus_modbox",
-		item_name: "驱逐虫子装备板条箱",
+		item_name: "驱虫装备板条箱",
 		color: 29952,
 		drops: {
 			boss: 0,
