@@ -1,5 +1,5 @@
 {
-	title: "战利品树苗",
+	title: "树苗战利品",
 	icon: "minecraft:sapling",
 	loot_size: 5,
 	rewards: [{
