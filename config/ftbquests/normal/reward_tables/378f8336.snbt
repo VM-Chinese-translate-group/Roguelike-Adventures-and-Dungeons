@@ -147,7 +147,8 @@
 	}],
 	loot_crate: {
 		string_id: "tertiary_vis_crystals",
-		item_name: "次级要素水晶板条箱",
+		item_name: "三阶魔力水晶板条箱",
+
 		color: 16777215,
 		drops: {
 			boss: 0,
