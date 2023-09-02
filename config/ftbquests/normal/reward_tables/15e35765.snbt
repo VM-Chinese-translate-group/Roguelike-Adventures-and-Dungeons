@@ -626,7 +626,7 @@
 	}],
 	loot_crate: {
 		string_id: "atum_artefacts",
-		item_name: "古代文物箱",
+		item_name: "远古神器箱",
 		color: 14923816,
 		drops: {
 			boss: 0,
