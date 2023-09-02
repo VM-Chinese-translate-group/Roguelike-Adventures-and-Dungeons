@@ -6,10 +6,10 @@ import crafttweaker.item.IItemStack;
 import mods.contenttweaker.Commands;
 
 
-var bigstick = VanillaFactory.createItem("bigstick");
+var bigstick = VanillaFactory.createItem("大木棍");
 bigstick.maxStackSize = 1;
 bigstick.maxDamage = 3200;
 bigstick.glowing = false;
 bigstick.register();
 
-game.setLocalization("item.contenttweaker.bigstick.name", "§l§o§6Big Stick");
+game.setLocalization("item.contenttweaker.bigstick.name", "§l§o§6大木棍");
