@@ -75,7 +75,7 @@
 	}],
 	loot_crate: {
 		string_id: "primary_vis_crystals",
-		item_name: "原始要素水晶板条箱",
+		item_name: "一阶魔力水晶板条箱",
 		color: 11711154,
 		drops: {
 			boss: 0,
