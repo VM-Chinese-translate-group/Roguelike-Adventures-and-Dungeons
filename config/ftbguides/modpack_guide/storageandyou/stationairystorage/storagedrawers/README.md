@@ -24,7 +24,7 @@
 
 抽屉钥匙，使被上锁的抽屉只能存入面板上的物品，无法取出物品。（还可以给物品保留占位，即使该物品已被全部取出）。
 
-![抽屉钥匙合成配方](drawerkeyrecipe.png)
+![抽屉钥匙配方](drawerkeyrecipe.png)
 
 ![上锁的抽屉](drawerseggs.png)
 
