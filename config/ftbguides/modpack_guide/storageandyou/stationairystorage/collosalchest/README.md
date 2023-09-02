@@ -8,7 +8,7 @@
 
 巨型箱子箱壁
 
-![巨型箱子箱壁合成配方](collosalchestrecipe.png)
+![巨型箱子外壁配方](collosalchestrecipe.png)
 
 巨型箱子的主要构成部分。
 
