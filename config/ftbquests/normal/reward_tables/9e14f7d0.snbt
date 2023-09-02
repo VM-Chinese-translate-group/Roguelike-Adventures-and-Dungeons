@@ -1,5 +1,6 @@
 {
-	title: "初级要素水晶",
+	title: "二阶魔力水晶",
+
 	loot_size: 3,
 	rewards: [{
 		item: {
