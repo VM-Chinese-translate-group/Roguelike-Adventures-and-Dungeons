@@ -1,5 +1,5 @@
 {
-	title: "符文石板板条箱",
+	title: "符文石板",
 	icon: "ancientspellcraft:runic_plate 1 410",
 	loot_size: 1,
 	rewards: [{
