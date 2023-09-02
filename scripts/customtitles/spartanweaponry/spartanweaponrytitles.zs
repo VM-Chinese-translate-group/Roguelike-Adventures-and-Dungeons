@@ -4,7 +4,7 @@ game.setLocalization("title.spartanweaponry.boomerang", "§f投掷兵");
 game.setLocalization("title.spartanweaponry.caestus", "§f格斗家");
 game.setLocalization("title.spartanweaponry.club", "§f粉碎者");
 game.setLocalization("title.spartanweaponry.crossbow", "§f炮兵");
-game.setLocalization("title.spartanweaponry.dagger", "§f偷袭者");
+game.setLocalization("title.spartanweaponry.dagger", "§f不讲武德之人");
 game.setLocalization("title.spartanweaponry.glaive", "§f舞者");
 game.setLocalization("title.spartanweaponry.greatsword", "§f大军阀");
 game.setLocalization("title.spartanweaponry.halberd", "§f主宰");
