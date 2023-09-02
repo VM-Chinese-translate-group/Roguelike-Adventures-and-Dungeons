@@ -3,7 +3,7 @@
 	icon: "iceandfire:dread_shard",
 	x: 0.5d,
 	y: -1.0d,
-	description: "冥界中最黑暗的阴影变得更加明亮",
+	description: "主世界中最黑暗的阴影变得更加明亮",
 	text: [
 		"击杀大量的悚怖怪物"
 	],
