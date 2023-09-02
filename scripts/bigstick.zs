@@ -6,7 +6,7 @@ import crafttweaker.item.IItemStack;
 import mods.contenttweaker.Commands;
 
 
-var bigstick = VanillaFactory.createItem("大木棍");
+var bigstick = VanillaFactory.createItem("bigstick");
 bigstick.maxStackSize = 1;
 bigstick.maxDamage = 3200;
 bigstick.glowing = false;
