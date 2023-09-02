@@ -1,5 +1,5 @@
 {
-	title: "Tertiary Vis Crystals",
+	title: "次级要素水晶",
 	loot_size: 3,
 	rewards: [{
 		item: {
@@ -147,7 +147,7 @@
 	}],
 	loot_crate: {
 		string_id: "tertiary_vis_crystals",
-		item_name: "Crate Of Tertiary Vis Crystals",
+		item_name: "次级要素水晶板条箱",
 		color: 16777215,
 		drops: {
 			boss: 0,
