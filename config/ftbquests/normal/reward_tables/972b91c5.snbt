@@ -1,5 +1,6 @@
 {
-	title: "盗贼",
+	title: "盗贼装备",
+
 	loot_size: 50,
 	rewards: [{
 		item: {
