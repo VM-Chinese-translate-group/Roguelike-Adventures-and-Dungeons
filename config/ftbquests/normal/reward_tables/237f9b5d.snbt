@@ -8,7 +8,7 @@
 				"Quark:ItemNameDye": 12,
 				display: {
 					Lore: [
-						"Fences not included!"
+						"不包括栅栏！"
 					],
 					Name: "拉马绳"
 				}
