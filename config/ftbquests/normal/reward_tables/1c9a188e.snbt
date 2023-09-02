@@ -1,5 +1,5 @@
 {
-	title: "模组宝箱大乱斗",
+	title: "模组宝箱组合包",
 	loot_size: 1,
 	rewards: [{
 		item: {
