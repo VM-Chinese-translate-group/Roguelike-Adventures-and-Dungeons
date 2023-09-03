@@ -14,7 +14,7 @@
 			id: "extrautils2:drum",
 			tag: {
 				Fluid: {
-					FluidName: "经验汁",
+					FluidName: "xpjuice",
 					Amount: 65536000
 				}
 			},
