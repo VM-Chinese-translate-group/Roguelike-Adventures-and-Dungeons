@@ -6,7 +6,7 @@ labelPRBasedOnFilePath:
     - "resources/**"
     - "kubejs/assets/**"
     
-  1.55:
+  1.56:
     - "config/**"
     - "script/**"
     - "resourcepacks/**"
