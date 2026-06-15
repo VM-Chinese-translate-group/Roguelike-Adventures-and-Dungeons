@@ -3,16 +3,9 @@
 	loot_size: 50,
 	rewards: [{
 		item: {
-			ForgeCaps: {
-				Parent: {
-					Size: 4,
-					Items: []
-				}
-			},
 			id: "spartanweaponry:quiver_bolt",
 			tag: {
-				ClientInventory: [],
-				"Quark:ItemNameDye": 5,
+				ammoCollect: 1b,
 				Quality: {
 					Slots: [
 						"baubles_trinket",
@@ -20,19 +13,26 @@
 					],
 					Color: "red",
 					AttributeModifiers: [{
+						Amount: -0.20000000298023224d,
+						Name: "qualitytools",
+						Operation: 0,
 						UUIDMost: 9171023254255061247L,
 						UUIDLeast: -7997876377223861178L,
-						Amount: -0.20000000298023224d,
-						AttributeName: "generic.luck",
-						Operation: 0,
-						Name: "qualitytools"
+						AttributeName: "generic.luck"
 					}],
 					Name: "quality.unlucky.name"
 				},
 				display: {
 					Name: "不幸的小箭袋"
 				},
-				ammoCollect: 1b
+				ClientInventory: [],
+				"Quark:ItemNameDye": 5
+			},
+			ForgeCaps: {
+				Parent: {
+					Items: [],
+					Size: 4
+				}
 			}
 		},
 		only_one: true
@@ -98,18 +98,18 @@
 		item: {
 			id: "spartanweaponry:throwing_axe_bronze",
 			tag: {
-				AmmoUsed: 4,
-				"Quark:ItemNameDye": 5,
+				enchChecked: 1b,
+				Original: 1b,
 				UUIDMost: 987710956231672314L,
 				UUIDLeast: -6699777503193815989L,
+				"Quark:ItemNameDye": 5,
+				AmmoUsed: 4,
 				display: {
 					Lore: [
 						"战斧将给他们致命一击。"
 					],
 					Name: "战斧"
-				},
-				enchChecked: 1b,
-				Original: 1b
+				}
 			}
 		},
 		only_one: true
@@ -187,9 +187,9 @@
 		item_name: "炮兵装备板条箱",
 		color: 16777215,
 		drops: {
-			boss: 0,
 			passive: 0,
-			monster: 0
+			monster: 0,
+			boss: 0
 		}
 	}
 }

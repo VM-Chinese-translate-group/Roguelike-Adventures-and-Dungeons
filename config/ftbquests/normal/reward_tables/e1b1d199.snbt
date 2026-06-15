@@ -6,17 +6,17 @@
 		item: {
 			id: "minecraft:diamond_pickaxe",
 			tag: {
-				"Quark:RuneColor": 12,
-				ench: [{
-					lvl: 1s,
-					id: 33
-				}],
 				"Quark:ItemNameDye": 0,
 				Quality: {},
+				"Quark:RuneColor": 12,
 				display: {
 					Name: "矮人的精准采集之镐"
 				},
-				"Quark:RuneAttached": 1b
+				"Quark:RuneAttached": 1b,
+				ench: [{
+					lvl: 1s,
+					id: 33
+				}]
 			}
 		}
 	},
@@ -24,17 +24,17 @@
 		item: {
 			id: "minecraft:diamond_pickaxe",
 			tag: {
-				"Quark:RuneColor": 12,
-				ench: [{
-					lvl: 3s,
-					id: 34
-				}],
 				"Quark:ItemNameDye": 8,
 				Quality: {},
+				"Quark:RuneColor": 12,
 				display: {
 					Name: "强化矮人镐"
 				},
-				"Quark:RuneAttached": 1b
+				"Quark:RuneAttached": 1b,
+				ench: [{
+					lvl: 3s,
+					id: 34
+				}]
 			}
 		}
 	},
@@ -42,17 +42,17 @@
 		item: {
 			id: "minecraft:diamond_pickaxe",
 			tag: {
-				"Quark:RuneColor": 12,
-				ench: [{
-					lvl: 3s,
-					id: 35
-				}],
 				"Quark:ItemNameDye": 15,
 				Quality: {},
+				"Quark:RuneColor": 12,
 				display: {
 					Name: "幸运矮人镐"
 				},
-				"Quark:RuneAttached": 1b
+				"Quark:RuneAttached": 1b,
+				ench: [{
+					lvl: 3s,
+					id: 35
+				}]
 			}
 		}
 	}],
@@ -60,9 +60,9 @@
 		string_id: "tool_enchant_reward",
 		color: 16777215,
 		drops: {
-			boss: 0,
 			passive: 0,
-			monster: 0
+			monster: 0,
+			boss: 0
 		}
 	}
 }

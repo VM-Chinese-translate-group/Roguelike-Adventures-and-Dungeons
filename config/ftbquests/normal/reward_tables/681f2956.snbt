@@ -32,7 +32,7 @@
 					Lore: [
 						"每个矮人都需要一个可靠的选择"
 					],
-					Name: "Ol Besty"
+					Name: "老贝茜酒"
 				}
 			}
 		},
@@ -155,9 +155,9 @@
 		item_name: "矮人装备板条箱",
 		color: 16777215,
 		drops: {
-			boss: 0,
 			passive: 0,
-			monster: 0
+			monster: 0,
+			boss: 0
 		}
 	}
 }

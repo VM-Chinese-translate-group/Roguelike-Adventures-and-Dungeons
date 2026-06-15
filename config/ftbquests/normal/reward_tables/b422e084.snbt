@@ -12,9 +12,9 @@
 			tag: {
 				generation: 3,
 				pages: [
-					"{\"text\":\"1 - 杀死他们看到的所有亡灵生物\\n2 - 不可做任何不洁之事\\n3 - 不可偷盗\\n4 - 每次日出，你都要赞美你的神\\n5 - 你应该跳舞\"}"
+					"{\"text\":\"1 - 若见亡灵，将其消灭\\n2 - 不得行亵渎神圣之事\\n3 - 不得行盗窃之事\\n4 - 每逢日出，应当赞颂神明\\n5 - 必须跳舞\"}"
 				],
-				author: "佚名",
+				author: "？？？",
 				title: "5条戒律",
 				resolved: 1b
 			}
@@ -91,20 +91,20 @@
 		item: {
 			id: "spartanweaponry:mace_bronze",
 			tag: {
-				"Quark:RuneColor": 0,
-				ench: [{
-					lvl: 1s,
-					id: 17
-				}],
 				"Quark:ItemNameDye": 1,
 				Quality: {},
+				"Quark:RuneColor": 0,
 				display: {
 					Lore: [
 						"一锤又一锤，直到搞定为止"
 					],
-					Name: "Undead Basher"
+					Name: "亡灵打手"
 				},
-				"Quark:RuneAttached": 1b
+				"Quark:RuneAttached": 1b,
+				ench: [{
+					lvl: 1s,
+					id: 17
+				}]
 			}
 		},
 		only_one: true
@@ -141,9 +141,9 @@
 		item_name: "主教装备板条箱",
 		color: 16777215,
 		drops: {
-			boss: 0,
 			passive: 0,
-			monster: 0
+			monster: 0,
+			boss: 0
 		}
 	}
 }
